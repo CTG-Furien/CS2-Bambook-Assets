@@ -1,0 +1,7 @@
+dist/
+.work/
+*.glb
+*.png
+*.exr
+*.tar
+*.tar.gz

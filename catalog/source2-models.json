@@ -1,0 +1,567 @@
+{
+  "models": [
+    {
+      "weapon": "weapon_ak47",
+      "model": "weapons/models/ak47/weapon_rif_ak47.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/ak47/materials/composite_inputs/weapon_rif_ak47_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/rif_ak47/rif_ak47_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_aug",
+      "model": "weapons/models/aug/weapon_rif_aug.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/aug/materials/composite_inputs/weapon_rif_aug_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/rif_aug/rif_aug_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_awp",
+      "model": "weapons/models/awp/weapon_snip_awp.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/awp/materials/composite_inputs/weapon_snip_awp_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/snip_awp/snip_awp_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_bayonet",
+      "model": "weapons/models/knife/knife_bayonet/weapon_knife_bayonet.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/knife/knife_bayonet/materials/composite_inputs/knife_bayonet_composite_inputs.vmat_c"
+      ],
+      "legacy": []
+    },
+    {
+      "weapon": "weapon_bizon",
+      "model": "weapons/models/bizon/weapon_smg_bizon.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/bizon/materials/composite_inputs/weapon_smg_bizon_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/smg_bizon/smg_bizon_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_cz75a",
+      "model": "weapons/models/cz75a/weapon_pist_cz75a.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/cz75a/materials/composite_inputs/weapon_pist_cz75a_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/pist_cz_75/pist_cz_75_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_deagle",
+      "model": "weapons/models/deagle/weapon_pist_deagle.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/deagle/materials/composite_inputs/weapon_pist_deagle_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/pist_deagle/pist_deagle_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_elite",
+      "model": "weapons/models/elite/weapon_pist_elite.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/elite/materials/composite_inputs/weapon_pist_elite_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/pist_elite/pist_elite_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_famas",
+      "model": "weapons/models/famas/weapon_rif_famas.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/famas/materials/composite_inputs/weapon_rif_famas_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/rif_famas/rif_famas_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_fiveseven",
+      "model": "weapons/models/fiveseven/weapon_pist_fiveseven.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/fiveseven/materials/composite_inputs/weapon_pist_fiveseven_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/pist_fiveseven/pist_fiveseven_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_g3sg1",
+      "model": "weapons/models/g3sg1/weapon_snip_g3sg1.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/g3sg1/materials/composite_inputs/weapon_snip_g3sg1_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/snip_g3sg1/snip_g3sg1_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_galilar",
+      "model": "weapons/models/galilar/weapon_rif_galilar.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/galilar/materials/composite_inputs/weapon_rif_galilar_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/rif_galilar/rif_galilar_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_glock",
+      "model": "weapons/models/glock18/weapon_pist_glock18.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/glock18/materials/composite_inputs/weapon_pist_glock_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/pist_glock18/pist_glock18_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_hkp2000",
+      "model": "weapons/models/hkp2000/weapon_pist_hkp2000.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/hkp2000/materials/composite_inputs/weapon_pist_hkp2000_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/pist_hkp2000/pist_hkp2000_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_knife_butterfly",
+      "model": "weapons/models/knife/knife_butterfly/weapon_knife_butterfly.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/knife/knife_butterfly/materials/composite_inputs/knife_butterfly_composite_inputs.vmat_c"
+      ],
+      "legacy": []
+    },
+    {
+      "weapon": "weapon_knife_canis",
+      "model": "weapons/models/knife/knife_canis/weapon_knife_canis.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/knife/knife_canis/materials/composite_inputs/knife_canis_composite_inputs.vmat_c"
+      ],
+      "legacy": []
+    },
+    {
+      "weapon": "weapon_knife_cord",
+      "model": "weapons/models/knife/knife_cord/weapon_knife_cord.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/knife/knife_cord/materials/composite_inputs/knife_cord_composite_inputs.vmat_c"
+      ],
+      "legacy": []
+    },
+    {
+      "weapon": "weapon_knife_css",
+      "model": "weapons/models/knife/knife_css/weapon_knife_css.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/knife/knife_css/materials/composite_inputs/knife_css_composite_inputs.vmat_c"
+      ],
+      "legacy": []
+    },
+    {
+      "weapon": "weapon_knife_falchion",
+      "model": "weapons/models/knife/knife_falchion/weapon_knife_falchion.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/knife/knife_falchion/materials/composite_inputs/knife_falchion_composite_inputs.vmat_c"
+      ],
+      "legacy": []
+    },
+    {
+      "weapon": "weapon_knife_flip",
+      "model": "weapons/models/knife/knife_flip/weapon_knife_flip.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/knife/knife_flip/materials/composite_inputs/knife_flip_composite_inputs.vmat_c"
+      ],
+      "legacy": []
+    },
+    {
+      "weapon": "weapon_knife_gut",
+      "model": "weapons/models/knife/knife_gut/weapon_knife_gut.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/knife/knife_gut/materials/composite_inputs/knife_gut_composite_inputs.vmat_c"
+      ],
+      "legacy": []
+    },
+    {
+      "weapon": "weapon_knife_gypsy_jackknife",
+      "model": "weapons/models/knife/knife_navaja/weapon_knife_navaja.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/knife/knife_navaja/materials/composite_inputs/knife_navaja_composite_inputs.vmat_c"
+      ],
+      "legacy": []
+    },
+    {
+      "weapon": "weapon_knife_karambit",
+      "model": "weapons/models/knife/knife_karambit/weapon_knife_karambit.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/knife/knife_karambit/materials/composite_inputs/knife_karambit_composite_inputs.vmat_c"
+      ],
+      "legacy": []
+    },
+    {
+      "weapon": "weapon_knife_kukri",
+      "model": "weapons/models/knife/knife_kukri/weapon_knife_kukri.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/knife/knife_kukri/materials/composite_inputs/knife_kukri_composite_inputs.vmat_c"
+      ],
+      "legacy": []
+    },
+    {
+      "weapon": "weapon_knife_m9_bayonet",
+      "model": "weapons/models/knife/knife_m9/weapon_knife_m9.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/knife/knife_m9/materials/composite_inputs/knife_m9_composite_inputs.vmat_c"
+      ],
+      "legacy": []
+    },
+    {
+      "weapon": "weapon_knife_outdoor",
+      "model": "weapons/models/knife/knife_outdoor/weapon_knife_outdoor.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/knife/knife_outdoor/materials/composite_inputs/knife_outdoor_composite_inputs.vmat_c"
+      ],
+      "legacy": []
+    },
+    {
+      "weapon": "weapon_knife_push",
+      "model": "weapons/models/knife/knife_push/weapon_knife_push.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/knife/knife_push/materials/composite_inputs/knife_push_composite_inputs.vmat_c"
+      ],
+      "legacy": []
+    },
+    {
+      "weapon": "weapon_knife_skeleton",
+      "model": "weapons/models/knife/knife_skeleton/weapon_knife_skeleton.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/knife/knife_skeleton/materials/composite_inputs/knife_skeleton_composite_inputs.vmat_c"
+      ],
+      "legacy": []
+    },
+    {
+      "weapon": "weapon_knife_stiletto",
+      "model": "weapons/models/knife/knife_stiletto/weapon_knife_stiletto.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/knife/knife_stiletto/materials/composite_inputs/knife_stiletto_composite_inputs.vmat_c"
+      ],
+      "legacy": []
+    },
+    {
+      "weapon": "weapon_knife_survival_bowie",
+      "model": "weapons/models/knife/knife_bowie/weapon_knife_bowie.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/knife/knife_bowie/materials/composite_inputs/knife_bowie_composite_inputs.vmat_c"
+      ],
+      "legacy": []
+    },
+    {
+      "weapon": "weapon_knife_tactical",
+      "model": "weapons/models/knife/knife_tactical/weapon_knife_tactical.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/knife/knife_tactical/materials/composite_inputs/knife_tactical_composite_inputs.vmat_c"
+      ],
+      "legacy": []
+    },
+    {
+      "weapon": "weapon_knife_ursus",
+      "model": "weapons/models/knife/knife_ursus/weapon_knife_ursus.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/knife/knife_ursus/materials/composite_inputs/knife_ursus_composite_inputs.vmat_c"
+      ],
+      "legacy": []
+    },
+    {
+      "weapon": "weapon_knife_widowmaker",
+      "model": "weapons/models/knife/knife_talon/weapon_knife_talon.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/knife/knife_talon/materials/composite_inputs/knife_talon_composite_inputs.vmat_c"
+      ],
+      "legacy": []
+    },
+    {
+      "weapon": "weapon_m249",
+      "model": "weapons/models/m249/weapon_mach_m249.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/m249/materials/composite_inputs/weapon_mach_m249_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/mach_m249para/mach_m249para_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_m4a1",
+      "model": "weapons/models/m4a4/weapon_rif_m4a4.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/m4a4/materials/composite_inputs/weapon_rif_m4a4_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/rif_m4a1/rif_m4a1_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_m4a1_silencer",
+      "model": "weapons/models/m4a1_silencer/weapon_rif_m4a1_silencer.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/m4a1_silencer/materials/composite_inputs/weapon_rif_m4a1_silencer_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/rif_m4a1_s/rif_m4a1_s_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_mac10",
+      "model": "weapons/models/mac10/weapon_smg_mac10.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/mac10/materials/composite_inputs/weapon_smg_mac10_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/smg_mac10/smg_mac10_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_mag7",
+      "model": "weapons/models/mag7/weapon_shot_mag7.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/mag7/materials/composite_inputs/weapon_shot_mag7_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/shot_mag7/shot_mag7_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_mp5sd",
+      "model": "weapons/models/mp5sd/weapon_smg_mp5sd.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/mp5sd/materials/composite_inputs/weapon_smg_mp5sd_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/smg_mp5sd/smg_mp5sd_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_mp7",
+      "model": "weapons/models/mp7/weapon_smg_mp7.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/mp7/materials/composite_inputs/weapon_smg_mp7_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/smg_mp7/smg_mp7_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_mp9",
+      "model": "weapons/models/mp9/weapon_smg_mp9.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/mp9/materials/composite_inputs/weapon_smg_mp9_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/smg_mp9/smg_mp9_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_negev",
+      "model": "weapons/models/negev/weapon_mach_negev.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/negev/materials/composite_inputs/weapon_mach_negev_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/mach_negev/mach_negev_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_nova",
+      "model": "weapons/models/nova/weapon_shot_nova.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/nova/materials/composite_inputs/weapon_shot_nova_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/shot_nova/shot_nova_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_p250",
+      "model": "weapons/models/p250/weapon_pist_p250.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/p250/materials/composite_inputs/weapon_pist_p250_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/pist_p250/pist_p250_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_p90",
+      "model": "weapons/models/p90/weapon_smg_p90.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/p90/materials/composite_inputs/weapon_smg_p90_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/smg_p90/smg_p90_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_revolver",
+      "model": "weapons/models/revolver/weapon_pist_revolver.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/revolver/materials/composite_inputs/weapon_pist_revolver_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/pist_revolver/pist_revolver_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_sawedoff",
+      "model": "weapons/models/sawedoff/weapon_shot_sawedoff.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/sawedoff/materials/composite_inputs/weapon_shot_sawedoff_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/shot_sawedoff/shot_sawedoff_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_scar20",
+      "model": "weapons/models/scar20/weapon_snip_scar20.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/scar20/materials/composite_inputs/weapon_snip_scar20_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/snip_scar20/snip_scar20_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_sg556",
+      "model": "weapons/models/sg556/weapon_rif_sg556.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/sg556/materials/composite_inputs/weapon_rif_sg556_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/rif_sg556/rif_sg556_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_ssg08",
+      "model": "weapons/models/ssg08/weapon_snip_ssg08.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/ssg08/materials/composite_inputs/weapon_snip_ssg08_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/snip_ssg08/snip_ssg08_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_taser",
+      "model": "weapons/models/taser/weapon_pist_taser.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/taser/materials/composite_inputs/weapon_pist_taser_composite_inputs.vmat_c"
+      ],
+      "legacy": []
+    },
+    {
+      "weapon": "weapon_tec9",
+      "model": "weapons/models/tec9/weapon_pist_tec9.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/tec9/materials/composite_inputs/weapon_pist_tec9_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/pist_tec9/pist_tec9_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_ump45",
+      "model": "weapons/models/ump45/weapon_smg_ump45.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/ump45/materials/composite_inputs/weapon_smg_ump45_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/smg_ump45/smg_ump45_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_usp_silencer",
+      "model": "weapons/models/usp_silencer/weapon_pist_usp_silencer.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/usp_silencer/materials/composite_inputs/weapon_pist_usp_silencer_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/pist_223/pist_223_composite_inputs.vmat_c"
+      ]
+    },
+    {
+      "weapon": "weapon_xm1014",
+      "model": "weapons/models/xm1014/weapon_shot_xm1014.vmdl_c",
+      "modelExists": true,
+      "hd": [
+        "weapons/models/xm1014/materials/composite_inputs/weapon_shot_xm1014_composite_inputs.vmat_c"
+      ],
+      "legacy": [
+        "materials/models/weapons/customization/shot_xm1014/shot_xm1014_composite_inputs.vmat_c"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "schema": 1,
+  "repository": "CTG-Furien/CS2-Bambook-Assets",
+  "tag": "models-v1-796b428",
+  "models": {
+    "4725.glb": {
+      "bytes": 6574096,
+      "sha256": "dd5c147bffc862a263637a086cf7700ab8de31cd3630f5a8d77a9b45cd7f561a"
+    },
+    "5027.glb": {
+      "bytes": 6817088,
+      "sha256": "a371c331c0ff5abfc5ba33f9575f686dc01257ff4cee9e0c4d379b9c7c9a2611"
+    },
+    "5030.glb": {
+      "bytes": 891008,
+      "sha256": "0c54285d13cb5944c5d6231bf25f63cd89eeea8a9f3c8226dec2915cdf59918d"
+    },
+    "5031.glb": {
+      "bytes": 603176,
+      "sha256": "6946c25251893340688b9a43c196f9c3d547be46455815ad19e39eca8ea67fcc"
+    },
+    "5032.glb": {
+      "bytes": 6369068,
+      "sha256": "1ca8f16f3815bc51388cd6dbbfd803b81fac8cfb0a8f58763d407f02f38c6d39"
+    },
+    "5033.glb": {
+      "bytes": 878488,
+      "sha256": "a5045d781b31bb8d511a6e8a6bde7ee23791e886d09ac4fc3cb1c88ad9600b75"
+    },
+    "5034.glb": {
+      "bytes": 1112048,
+      "sha256": "88daa6da2c8e8a782860a4784bbe662bf566bb8363fa12a896d5bd765c907519"
+    },
+    "5035.glb": {
+      "bytes": 6837572,
+      "sha256": "c949b3bf24b530c1833e1585136284e06e7da5e2443e167dc8f72f94f0dc0956"
+    },
+    "gloves_ct.glb": {
+      "bytes": 891068,
+      "sha256": "df9633652715e3d1546c2fdbed7fc8fe883f4f5c5ec0c1db85c5ab65b1969e4c"
+    },
+    "gloves_t.glb": {
+      "bytes": 775844,
+      "sha256": "f4285e753f3ba39f2a82ed5fe3d5ce8a4cd0d13ef3651a5799d66727e04cc158"
+    },
+    "weapon_ak47.glb": {
+      "bytes": 4052692,
+      "sha256": "db2bc422a7570e55187c7cd5e1bf442801964f05b5eca338c3241d977dfbacea"
+    },
+    "weapon_aug.glb": {
+      "bytes": 4940804,
+      "sha256": "7c7614be46fabba7fbcca4943b4820100288af2bdc717e8ba28d8d555635a798"
+    },
+    "weapon_awp.glb": {
+      "bytes": 4614216,
+      "sha256": "925399b2c3478806619042aada9cb169cace37f160ca9b8a44a2cb01162a802e"
+    },
+    "weapon_bayonet.glb": {
+      "bytes": 853996,
+      "sha256": "f08169d5acc92162de17b5a113cc259e4cd09dee4c8ba97e0ee65c7c263d61f5"
+    },
+    "weapon_bizon.glb": {
+      "bytes": 3730828,
+      "sha256": "72e14d501ecbe19c5e9b68ade2ad7e879576afb05b90284b0f3eedc5ffb50b99"
+    },
+    "weapon_cz75a.glb": {
+      "bytes": 6695420,
+      "sha256": "56e62dbcebcbe5415985ba60e05c8434df3a52fe52f8463ec6ee8c13c8be14c3"
+    },
+    "weapon_deagle.glb": {
+      "bytes": 3296804,
+      "sha256": "0dffe94b3aca830612894387dfa61abdc38040e9c97e30150a6d31e1adb9cc46"
+    },
+    "weapon_elite.glb": {
+      "bytes": 3071736,
+      "sha256": "a7eb329c71483b18b8f2862d1d4a1f8445f69a1b1e46e91aad83608ebd620f47"
+    },
+    "weapon_famas.glb": {
+      "bytes": 3808116,
+      "sha256": "3d008103532c2209ca0d869acb58df4d8ee069e9495040a75a61700268ee5712"
+    },
+    "weapon_fiveseven.glb": {
+      "bytes": 3347816,
+      "sha256": "66bdf5da3c349812ff2b11bfde5ede2974d7259d402cb93ccbdf73dcee3a992b"
+    },
+    "weapon_g3sg1.glb": {
+      "bytes": 4505568,
+      "sha256": "8bf5f9dfc4748ff593bb5c9b148471dd9a1e75667044259beb58ea21cdf92843"
+    },
+    "weapon_galilar.glb": {
+      "bytes": 4078308,
+      "sha256": "54a0cedc397acbdc96c9936aaedd850444231c4bfee95b0b5c3a2406a1a70a4e"
+    },
+    "weapon_glock.glb": {
+      "bytes": 2638088,
+      "sha256": "64fddd672d7c88c3622d72b78d9c85aa7b2e9ce337d78e141306fc08255eaca9"
+    },
+    "weapon_hkp2000.glb": {
+      "bytes": 2924976,
+      "sha256": "8042a0a123601f77b9b524a665aab93be01f2aaee395d29cfa9f61cec4c22ebc"
+    },
+    "weapon_knife_butterfly.glb": {
+      "bytes": 976124,
+      "sha256": "96052d503a44801241b7c2ac8d9e2cd2c82aaa2d706caa0d80c09c5fa8cf9c71"
+    },
+    "weapon_knife_canis.glb": {
+      "bytes": 806044,
+      "sha256": "2f60db99edaba985cb8f1c7a707af5f816cee05e16d4835069887671077218a0"
+    },
+    "weapon_knife_cord.glb": {
+      "bytes": 1342908,
+      "sha256": "01d679616f459879e73ec77f81fde3ad9ba042fcdbebcc4ca0ba31c45050ac97"
+    },
+    "weapon_knife_css.glb": {
+      "bytes": 852864,
+      "sha256": "2cc0bf61e15d12f0bf78035ee5a6268c2c8adce203de73d11d5b2203d12606eb"
+    },
+    "weapon_knife_falchion.glb": {
+      "bytes": 849172,
+      "sha256": "ebe90fae0d1364c6191aa9a5d892a663e26611fea057e2bfee6dd64757080cf8"
+    },
+    "weapon_knife_flip.glb": {
+      "bytes": 860752,
+      "sha256": "5d1055702728c5b42db22b34241615c74ed35d5f7c34ba8b25c3280bf18d4a62"
+    },
+    "weapon_knife_gut.glb": {
+      "bytes": 1012068,
+      "sha256": "e135edbc469f919e0bca38cdf5aaf4a36a5ced987d78567d2faa2c0922b441d3"
+    },
+    "weapon_knife_gypsy_jackknife.glb": {
+      "bytes": 995496,
+      "sha256": "ea98b933e1af7c1e6c846e3b2bbd7a0ebc5eee80a6c467be4ba2bbfd777a5ef0"
+    },
+    "weapon_knife_karambit.glb": {
+      "bytes": 1074220,
+      "sha256": "552cf90d9ecad457277c872e7c9535e3536a997b914c7552f6cd120dacd2a21c"
+    },
+    "weapon_knife_kukri.glb": {
+      "bytes": 875136,
+      "sha256": "bffceba369e1a3ae33b08ce89fd80db46984ab926d0d506c2a487a42ac36043a"
+    },
+    "weapon_knife_m9_bayonet.glb": {
+      "bytes": 1055256,
+      "sha256": "61e33e149e1022ab346a76bcf3f50a3aa5754c54cfe5c3baf79673ab111e3623"
+    },
+    "weapon_knife_outdoor.glb": {
+      "bytes": 1233144,
+      "sha256": "4a180d85ea838dd81322cb76be6b0613a9721fdb496e0fde7deb8ab8a80aa37c"
+    },
+    "weapon_knife_push.glb": {
+      "bytes": 773232,
+      "sha256": "38a90e135babee1dc22a4bd1755c194168919bc9fd4b531acc6aa3c0d5474ecc"
+    },
+    "weapon_knife_skeleton.glb": {
+      "bytes": 720520,
+      "sha256": "73fe7646582971d9665ae492821b9721128ee0d96718b2c9b0c63c6729e9d537"
+    },
+    "weapon_knife_stiletto.glb": {
+      "bytes": 1015388,
+      "sha256": "19d27ade76f4b7d0dbe4e9b39236605e9d9069eef35cfd444fceee2e0f24a93e"
+    },
+    "weapon_knife_survival_bowie.glb": {
+      "bytes": 1253040,
+      "sha256": "31f78eb2173e293b5ab8211da6f1ab67ceb45203392f634fd34ffdae6582d9e6"
+    },
+    "weapon_knife_tactical.glb": {
+      "bytes": 1315856,
+      "sha256": "48f9b9d574167eb6f0c4e8ca484e549d49fd3b186f55fc8ced9fac74362cefb3"
+    },
+    "weapon_knife_ursus.glb": {
+      "bytes": 773036,
+      "sha256": "466e499808842f3b900c239916e9842275428839bd3fbf2aa3745d0f2f3c962f"
+    },
+    "weapon_knife_widowmaker.glb": {
+      "bytes": 895944,
+      "sha256": "d6c0497b7d39a213523047d27465fdb35ccd5763ea108cb9b2c2c7b961d7c1a3"
+    },
+    "weapon_m249.glb": {
+      "bytes": 5774748,
+      "sha256": "a32b3c872c8ca8483a1912672656ec33c0161714715254653551b6622ce2fdae"
+    },
+    "weapon_m4a1_silencer.glb": {
+      "bytes": 4931652,
+      "sha256": "5017951096a1011c65e251a3b1a89a01555e9f9f27ee19625ca4cea25a944b62"
+    },
+    "weapon_m4a1.glb": {
+      "bytes": 4634224,
+      "sha256": "e56db3156fda057318a26875bee1e598503473e1d55f5c8d57da9b77eac967ab"
+    },
+    "weapon_mac10.glb": {
+      "bytes": 3026168,
+      "sha256": "dc47bf5baa64e788e751540a616b48c895680e37b0204c9e704ce3e3c4dfd66f"
+    },
+    "weapon_mag7.glb": {
+      "bytes": 3036372,
+      "sha256": "9835c61d99b465f6de23ed2a12e3b89e218049cc7c408b502ac89c0bee47be2a"
+    },
+    "weapon_mp5sd.glb": {
+      "bytes": 4296196,
+      "sha256": "e344b7d74bf19984e433f8132944a9c04e649c3dc3b0fb8af61f1d9a4d27f6fb"
+    },
+    "weapon_mp7.glb": {
+      "bytes": 4071884,
+      "sha256": "735ad443f18fcd7a2ac0fa5cf2e5e4e43fa822c8cab85e6f7d29e5ab2f40d63c"
+    },
+    "weapon_mp9.glb": {
+      "bytes": 3683796,
+      "sha256": "b218352e9784b5e9f75caa381245324dca2ccc009b5c20f2ef410c193d648012"
+    },
+    "weapon_negev.glb": {
+      "bytes": 6124644,
+      "sha256": "ebe9e6709ad801e47ef0b0fba2953a060a34e1041222143688cbb320bbb35e76"
+    },
+    "weapon_nova.glb": {
+      "bytes": 3923020,
+      "sha256": "910ac4a19e856607c40e8eb6822d39f484e201eb9e73e0a027d7589b9cf0b140"
+    },
+    "weapon_p250.glb": {
+      "bytes": 2795976,
+      "sha256": "55884b57dcccbfc25a7cb74e9cfe953171ff746ecc83dbfcdbd00604d2322c42"
+    },
+    "weapon_p90.glb": {
+      "bytes": 3524544,
+      "sha256": "d8c2cce49205ff5d5d4013663209165437f375421819edb815f3b228de70dd62"
+    },
+    "weapon_revolver.glb": {
+      "bytes": 3598608,
+      "sha256": "860045e637e52ec049c2347c0ce68c1fec96b6ecf626ead8bedf18e7013b1dae"
+    },
+    "weapon_sawedoff.glb": {
+      "bytes": 3220984,
+      "sha256": "01e3335bb9174fc6e52721ef5eb649307b59be2abfb8b604329adc27457488f6"
+    },
+    "weapon_scar20.glb": {
+      "bytes": 4931020,
+      "sha256": "f4db1176c283e4cbe641defa4d6fb538eb696c07e0eb4071111604d6a7c756c6"
+    },
+    "weapon_sg556.glb": {
+      "bytes": 5069704,
+      "sha256": "194be5722402c7ac1e8add5ac9d0ee9f985e0f489703af25d7abad29a275ed88"
+    },
+    "weapon_ssg08.glb": {
+      "bytes": 6350336,
+      "sha256": "f5d06b6c752281ea4a781f4d0b1adf06cf246c3b259dc78eea5d88767315fbf6"
+    },
+    "weapon_taser.glb": {
+      "bytes": 1345332,
+      "sha256": "e464857630d50ac37cd9341737444c516cad58e1ac5e6c2f72ffef61fd52354c"
+    },
+    "weapon_tec9.glb": {
+      "bytes": 2853216,
+      "sha256": "1aec55932137639e4b0358c4708920b4cb8dfe497d809f524c91e7f040359fbd"
+    },
+    "weapon_ump45.glb": {
+      "bytes": 3671272,
+      "sha256": "2f9970a2f77e2c7c61a89d6accf25fb1658e55b53fa3e09c37693c4f4a2998d3"
+    },
+    "weapon_usp_silencer.glb": {
+      "bytes": 3192008,
+      "sha256": "3293d26dea233756eb49168ea38f1b540001fa40856b5b70318cb56e85ab0cf2"
+    },
+    "weapon_xm1014.glb": {
+      "bytes": 4106276,
+      "sha256": "588e977c7bb31a46f6874ea5d4a53dc2ee4945a8eb240c3748b687e21b6b229f"
+    }
+  }
+}

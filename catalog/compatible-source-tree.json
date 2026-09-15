@@ -1,0 +1,527 @@
+{
+  "sha": "796b428de4be746058e636abd23ee5d9d14989e4",
+  "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/trees/796b428de4be746058e636abd23ee5d9d14989e4",
+  "tree": [
+    {
+      "path": "src/[models]/4725.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "10a57c98e3bbeb705f7c1832a1ed125ad0e4d13e",
+      "size": 6574096,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/10a57c98e3bbeb705f7c1832a1ed125ad0e4d13e"
+    },
+    {
+      "path": "src/[models]/5027.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19b5ab234b076976b1d039cae1dffc6ffe66e888",
+      "size": 6817088,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/19b5ab234b076976b1d039cae1dffc6ffe66e888"
+    },
+    {
+      "path": "src/[models]/5030.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "45be77133b08e7774d1e176d3b5e6955ecb111c8",
+      "size": 891008,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/45be77133b08e7774d1e176d3b5e6955ecb111c8"
+    },
+    {
+      "path": "src/[models]/5031.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "840d4b4a9dcf8a26c77c16cabff4b195d39af5a7",
+      "size": 603176,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/840d4b4a9dcf8a26c77c16cabff4b195d39af5a7"
+    },
+    {
+      "path": "src/[models]/5032.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a1c312b68b8abfa1c5c3972e420f0466bd7713e3",
+      "size": 6369068,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/a1c312b68b8abfa1c5c3972e420f0466bd7713e3"
+    },
+    {
+      "path": "src/[models]/5033.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3fa73b64a9a458a1b427c7530576234f682f027f",
+      "size": 878488,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/3fa73b64a9a458a1b427c7530576234f682f027f"
+    },
+    {
+      "path": "src/[models]/5034.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a2a785d692751ff286df0accbb39fca800aa7e03",
+      "size": 1112048,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/a2a785d692751ff286df0accbb39fca800aa7e03"
+    },
+    {
+      "path": "src/[models]/5035.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7378cfcba2da07045daa36b9d14aa4ec40484ad0",
+      "size": 6837572,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/7378cfcba2da07045daa36b9d14aa4ec40484ad0"
+    },
+    {
+      "path": "src/[models]/gloves_ct.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e3942707d00ef5da52093e924995c70c079e756b",
+      "size": 891068,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/e3942707d00ef5da52093e924995c70c079e756b"
+    },
+    {
+      "path": "src/[models]/gloves_t.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bdcd7cf0b1727e0ee7b965d9df2304f76a59517f",
+      "size": 775844,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/bdcd7cf0b1727e0ee7b965d9df2304f76a59517f"
+    },
+    {
+      "path": "src/[models]/weapon_ak47.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6570d1a66e28003f6a7efb741d21605898e42999",
+      "size": 4052692,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/6570d1a66e28003f6a7efb741d21605898e42999"
+    },
+    {
+      "path": "src/[models]/weapon_aug.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c9719b63a1ed67a3617597760501810840be3dd7",
+      "size": 4940804,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/c9719b63a1ed67a3617597760501810840be3dd7"
+    },
+    {
+      "path": "src/[models]/weapon_awp.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c4a06c8d2580bebf7b39d6aae03714b836cf4791",
+      "size": 4614216,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/c4a06c8d2580bebf7b39d6aae03714b836cf4791"
+    },
+    {
+      "path": "src/[models]/weapon_bayonet.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c743d1b8311f22501e07630c17bb4166b7c8cffc",
+      "size": 853996,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/c743d1b8311f22501e07630c17bb4166b7c8cffc"
+    },
+    {
+      "path": "src/[models]/weapon_bizon.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c9f0e1ad2af41c547240ba8a20e013844ac8e67e",
+      "size": 3730828,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/c9f0e1ad2af41c547240ba8a20e013844ac8e67e"
+    },
+    {
+      "path": "src/[models]/weapon_cz75a.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1c2ca308962ae98ac84b6076a580cb6214e90a65",
+      "size": 6695420,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/1c2ca308962ae98ac84b6076a580cb6214e90a65"
+    },
+    {
+      "path": "src/[models]/weapon_deagle.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "69d4ebf6102461d8711a6015090a54b360c98b69",
+      "size": 3296804,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/69d4ebf6102461d8711a6015090a54b360c98b69"
+    },
+    {
+      "path": "src/[models]/weapon_elite.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35742c28baeec34de4ab5edd6e0fe85075da3ee1",
+      "size": 3071736,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/35742c28baeec34de4ab5edd6e0fe85075da3ee1"
+    },
+    {
+      "path": "src/[models]/weapon_famas.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f466b2fb2347c01e6ec0c7692d236bc81780f04",
+      "size": 3808116,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/1f466b2fb2347c01e6ec0c7692d236bc81780f04"
+    },
+    {
+      "path": "src/[models]/weapon_fiveseven.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e054c85997bcdcfe4c8fa8b693c614aa41bcc4e8",
+      "size": 3347816,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/e054c85997bcdcfe4c8fa8b693c614aa41bcc4e8"
+    },
+    {
+      "path": "src/[models]/weapon_g3sg1.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "88997ae4364cffc37cb52401686c6d3da7142aaa",
+      "size": 4505568,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/88997ae4364cffc37cb52401686c6d3da7142aaa"
+    },
+    {
+      "path": "src/[models]/weapon_galilar.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19c42e83c8b77eaf9a8ec5a2877350992cee7fd5",
+      "size": 4078308,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/19c42e83c8b77eaf9a8ec5a2877350992cee7fd5"
+    },
+    {
+      "path": "src/[models]/weapon_glock.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b8152938f6fade231d4b8944a565d89b939cfe6a",
+      "size": 2638088,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/b8152938f6fade231d4b8944a565d89b939cfe6a"
+    },
+    {
+      "path": "src/[models]/weapon_hkp2000.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a5245fb0046c76b9855f5afb0af0d96d270a7751",
+      "size": 2924976,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/a5245fb0046c76b9855f5afb0af0d96d270a7751"
+    },
+    {
+      "path": "src/[models]/weapon_knife_butterfly.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "49be63bc73043f85593ab3613fa159396f4deddd",
+      "size": 976124,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/49be63bc73043f85593ab3613fa159396f4deddd"
+    },
+    {
+      "path": "src/[models]/weapon_knife_canis.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "274dddaf67ff820e8359c0dc824a9bddd4b22a95",
+      "size": 806044,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/274dddaf67ff820e8359c0dc824a9bddd4b22a95"
+    },
+    {
+      "path": "src/[models]/weapon_knife_cord.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5656c97543e4d298b4377a635d29036df888280b",
+      "size": 1342908,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/5656c97543e4d298b4377a635d29036df888280b"
+    },
+    {
+      "path": "src/[models]/weapon_knife_css.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a4d8f769ce1aa0f5b6b186e886d9041865ee3014",
+      "size": 852864,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/a4d8f769ce1aa0f5b6b186e886d9041865ee3014"
+    },
+    {
+      "path": "src/[models]/weapon_knife_falchion.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3fabd9900395cfccb4c0cebba0df4d41cd23c354",
+      "size": 849172,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/3fabd9900395cfccb4c0cebba0df4d41cd23c354"
+    },
+    {
+      "path": "src/[models]/weapon_knife_flip.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "070ec91aea180e5b98337eb3a11478b866d087e0",
+      "size": 860752,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/070ec91aea180e5b98337eb3a11478b866d087e0"
+    },
+    {
+      "path": "src/[models]/weapon_knife_gut.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac154d5eca5e4704f6862560398b8886997ab23c",
+      "size": 1012068,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/ac154d5eca5e4704f6862560398b8886997ab23c"
+    },
+    {
+      "path": "src/[models]/weapon_knife_gypsy_jackknife.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5d0fa329481ec3bb1837df8e7b80ff112d8c5cc7",
+      "size": 995496,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/5d0fa329481ec3bb1837df8e7b80ff112d8c5cc7"
+    },
+    {
+      "path": "src/[models]/weapon_knife_karambit.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "53f0444e3cbc4728ded738e982bc7d4d968d96c7",
+      "size": 1074220,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/53f0444e3cbc4728ded738e982bc7d4d968d96c7"
+    },
+    {
+      "path": "src/[models]/weapon_knife_kukri.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3401a8be72f2ae4cf3b024c3a8a93c9224da8e60",
+      "size": 875136,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/3401a8be72f2ae4cf3b024c3a8a93c9224da8e60"
+    },
+    {
+      "path": "src/[models]/weapon_knife_m9_bayonet.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6f32aebb6d410f8b246ad785c28d043e54de45b3",
+      "size": 1055256,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/6f32aebb6d410f8b246ad785c28d043e54de45b3"
+    },
+    {
+      "path": "src/[models]/weapon_knife_outdoor.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c71ca101a62abbf7a608b7284dfe5964a5ac60a5",
+      "size": 1233144,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/c71ca101a62abbf7a608b7284dfe5964a5ac60a5"
+    },
+    {
+      "path": "src/[models]/weapon_knife_push.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "21dd676f02cab5cce16bc3546384a03a1830f970",
+      "size": 773232,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/21dd676f02cab5cce16bc3546384a03a1830f970"
+    },
+    {
+      "path": "src/[models]/weapon_knife_skeleton.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f30bae62af1ae5b73d437ee6a0fedb3d488a2335",
+      "size": 720520,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/f30bae62af1ae5b73d437ee6a0fedb3d488a2335"
+    },
+    {
+      "path": "src/[models]/weapon_knife_stiletto.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "04bfeaccab6ef1a05c434cdc971f8e39899e352d",
+      "size": 1015388,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/04bfeaccab6ef1a05c434cdc971f8e39899e352d"
+    },
+    {
+      "path": "src/[models]/weapon_knife_survival_bowie.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4d92f5155a324f95f00e793c79689b4f5fefb7c",
+      "size": 1253040,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/d4d92f5155a324f95f00e793c79689b4f5fefb7c"
+    },
+    {
+      "path": "src/[models]/weapon_knife_tactical.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4ce0314ee3d0b8420f1a6e6d3432db33b562b975",
+      "size": 1315856,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/4ce0314ee3d0b8420f1a6e6d3432db33b562b975"
+    },
+    {
+      "path": "src/[models]/weapon_knife_ursus.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51033c910c07468bfd20cffed4a0214be4af3de7",
+      "size": 773036,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/51033c910c07468bfd20cffed4a0214be4af3de7"
+    },
+    {
+      "path": "src/[models]/weapon_knife_widowmaker.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3fbfff6de17d535f3729c7d5228e1631e18d577f",
+      "size": 895944,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/3fbfff6de17d535f3729c7d5228e1631e18d577f"
+    },
+    {
+      "path": "src/[models]/weapon_m249.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d14fcf79666f4c98d72f250c40375cda14bd8ab3",
+      "size": 5774748,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/d14fcf79666f4c98d72f250c40375cda14bd8ab3"
+    },
+    {
+      "path": "src/[models]/weapon_m4a1.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "199bba69746d401c2cd04076d72fcc3ff124175a",
+      "size": 4634224,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/199bba69746d401c2cd04076d72fcc3ff124175a"
+    },
+    {
+      "path": "src/[models]/weapon_m4a1_silencer.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b6578b7cac7609dff490e81889460160ad646ed",
+      "size": 4931652,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/3b6578b7cac7609dff490e81889460160ad646ed"
+    },
+    {
+      "path": "src/[models]/weapon_mac10.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae6c0ef4b1748558e10d8111f4c403d98f24c201",
+      "size": 3026168,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/ae6c0ef4b1748558e10d8111f4c403d98f24c201"
+    },
+    {
+      "path": "src/[models]/weapon_mag7.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a388ee4f1f67eaffc82cafecb6e21b0b733c502",
+      "size": 3036372,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/3a388ee4f1f67eaffc82cafecb6e21b0b733c502"
+    },
+    {
+      "path": "src/[models]/weapon_mp5sd.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "642c626a0908cbe3c1d7403cb27fae8fa710e208",
+      "size": 4296196,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/642c626a0908cbe3c1d7403cb27fae8fa710e208"
+    },
+    {
+      "path": "src/[models]/weapon_mp7.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fdd5c76bf5333bee207946cee68c11e9b364086e",
+      "size": 4071884,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/fdd5c76bf5333bee207946cee68c11e9b364086e"
+    },
+    {
+      "path": "src/[models]/weapon_mp9.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f79407b6d3c3b83451af245f3762b71a2d215826",
+      "size": 3683796,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/f79407b6d3c3b83451af245f3762b71a2d215826"
+    },
+    {
+      "path": "src/[models]/weapon_negev.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "236cb06e76f648e8a5b2e8230fb122b6a128aef4",
+      "size": 6124644,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/236cb06e76f648e8a5b2e8230fb122b6a128aef4"
+    },
+    {
+      "path": "src/[models]/weapon_nova.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "470c0a751d18c009dc8fb01506ad04aa9dc827f9",
+      "size": 3923020,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/470c0a751d18c009dc8fb01506ad04aa9dc827f9"
+    },
+    {
+      "path": "src/[models]/weapon_p250.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9587e67bc34afad6a2e8679252c45ceac53f25a",
+      "size": 2795976,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/d9587e67bc34afad6a2e8679252c45ceac53f25a"
+    },
+    {
+      "path": "src/[models]/weapon_p90.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b956dbddbc5e329cdf52d68a465e1b29f6d2c327",
+      "size": 3524544,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/b956dbddbc5e329cdf52d68a465e1b29f6d2c327"
+    },
+    {
+      "path": "src/[models]/weapon_revolver.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "69639798738123b74586babc3de25f6654f791e6",
+      "size": 3598608,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/69639798738123b74586babc3de25f6654f791e6"
+    },
+    {
+      "path": "src/[models]/weapon_sawedoff.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9b32a59b2b600d92338ec2398faa51ad9a4d4172",
+      "size": 3220984,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/9b32a59b2b600d92338ec2398faa51ad9a4d4172"
+    },
+    {
+      "path": "src/[models]/weapon_scar20.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f1d95c92750128fa94d5d4f4aa3bd29f37418660",
+      "size": 4931020,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/f1d95c92750128fa94d5d4f4aa3bd29f37418660"
+    },
+    {
+      "path": "src/[models]/weapon_sg556.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6afc21d0ee53a56736d984b8bd35cdcb272f92f",
+      "size": 5069704,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/a6afc21d0ee53a56736d984b8bd35cdcb272f92f"
+    },
+    {
+      "path": "src/[models]/weapon_ssg08.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9395be394e13c0a6d5646c5be18d0fa1b435c889",
+      "size": 6350336,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/9395be394e13c0a6d5646c5be18d0fa1b435c889"
+    },
+    {
+      "path": "src/[models]/weapon_taser.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a955faa63b79f72e6ffa54bbfc5585aa049e8b35",
+      "size": 1345332,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/a955faa63b79f72e6ffa54bbfc5585aa049e8b35"
+    },
+    {
+      "path": "src/[models]/weapon_tec9.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "86366299fd895e92051812583b7bc02d10f161ac",
+      "size": 2853216,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/86366299fd895e92051812583b7bc02d10f161ac"
+    },
+    {
+      "path": "src/[models]/weapon_ump45.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f68ce5976a5e718209f008157c58a77f74aa8d4d",
+      "size": 3671272,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/f68ce5976a5e718209f008157c58a77f74aa8d4d"
+    },
+    {
+      "path": "src/[models]/weapon_usp_silencer.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1adb3c939ca24f477f5b00b37a8f0bc8783c2093",
+      "size": 3192008,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/1adb3c939ca24f477f5b00b37a8f0bc8783c2093"
+    },
+    {
+      "path": "src/[models]/weapon_xm1014.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51a371bf3004fd420826cee487d369ecd3e712fd",
+      "size": 4106276,
+      "url": "https://api.github.com/repos/LielXD/CS2-WeaponPaints-Website/git/blobs/51a371bf3004fd420826cee487d369ecd3e712fd"
+    }
+  ],
+  "truncated": false
+}
