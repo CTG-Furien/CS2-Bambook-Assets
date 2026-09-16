@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "file": "weapon_ak47_paint_1397.glb",
+  "bytes": 7014384,
+  "sha256": "48010fcf7b7e0aa22643988d02e6b4c7f2a05f4f7ebdaecc81b0169758e3a7b0",
+  "game": "2000905",
+  "sourceRelease": "prototype-aphrodite-cs2-2000905",
+  "referenceCompositor": {
+    "repository": "lukepolo/5stack-inventory-plugin",
+    "commit": "fae818d02f41b83ac55a7b82a9098e665999c0a8"
+  },
+  "preview": {
+    "weapon": "weapon_ak47",
+    "paint": 1397,
+    "seed": 1,
+    "wear": 0.03,
+    "textureSize": 1024,
+    "fixedAppearance": true
+  },
+  "preparation": "Composite the extracted material into albedo and roughness/metalness maps, keep the HD body, embed all textures with GLTFExporter, and rotate the export -pi/2 to match the existing viewer. No compositor source is shipped.",
+  "limitations": "Approximate fixed preview; no live seed/wear recomposition or exact in-game fidelity claim."
+}

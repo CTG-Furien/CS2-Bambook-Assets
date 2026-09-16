@@ -27,6 +27,12 @@ server is outside this asset repository's scope.
 
 ## Website consumption
 
+Viewer bundle v2 adds an embedded **AK-47 Aphrodite (1397)** preview to the 65
+unchanged compatible models. Its 7 MB GLB contains the HD model and all four PBR
+images, composed from the published build-2000905 material prototype. Appearance
+is fixed at seed 1 and wear 0.03; it is an approximate preview, not a full runtime
+compositor. See `manifests/aphrodite-preview-v1.json` for provenance and checksum.
+
 The website pins a release tag, expected byte sizes and SHA-256 hashes. Its build
 downloads only the viewer-compatible GLBs, verifies every file, then serves
 them under `/skin-assets/<release>/models/` on the website's own origin. Visitors
