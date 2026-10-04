@@ -20,15 +20,15 @@ credentials, player information or server configuration belongs here.
   build **2000905**. This is a separate experimental material bundle, not a
   complete paint library or a guarantee of exact in-game rendering.
 
-The 55 Source 2 exports cover the website's weapon/knife catalog. Viewer bundle
-v5 additionally exposes all eight compatible glove families by catalog name.
+The 55 Source 2 exports cover the website's weapon/knife catalog. The v5 base
+manifest additionally exposes all eight compatible glove families by catalog name.
 Base model availability does not mean every paint, sticker,
 keychain, wear or seed can already be rendered. Applying inventory on the game
 server is outside this asset repository's scope.
 
 ## Website consumption
 
-Viewer bundle `models-v5-6c88111c16de` contains 64 self-contained GLBs: 55
+The prepared v5 base manifest contains 64 self-contained GLBs: 55
 weapon/knife bases (including Zeus x27), eight glove bases, and the Aphrodite
 preview. The eight numeric glove files from v2 are renamed to their catalog
 weapon keys without changing any bytes. Misleading upstream `gloves_ct` and
@@ -38,7 +38,31 @@ See `manifests/model-provenance-v5.json` for the exact source/hash mapping.
 Reproduce with `node scripts/prepare-glove-models.cjs --lock
 manifests/website-model-lock-v2.json --source <verified-v2-models-directory>
 --out <new-directory>`. Existing tags and binary assets remain unchanged.
-This release supplies base geometry; it does not add missing paint textures.
+This intermediate manifest supplies base geometry and is consumed by v6 packaging.
+
+Viewer bundle v6 adds 260 self-contained painted models from installed CS2 build
+**2000924**, for a total of 324 GLBs. Together with the retained Aphrodite preview,
+these cover all 261 finishes missing from the frozen upstream texture tree:
+22 glove finishes and 239 weapon/knife finishes (including all four missing Zeus
+finishes). The website's other paints retain their existing texture maps.
+New previews use seed 1 and the finish's minimum wear, with embedded albedo,
+roughness/metalness and normal textures up to 1024px. They preserve unpainted arms
+and scopes. Fixed previews do not reproduce every wear, seed or Source 2 effect.
+
+`scripts/prepare-painted-models.cjs` verifies every source manifest file, bake
+metadata and output GLB before assembling the release. Supply `--base-lock`,
+`--base-models`, `--painted`, `--audit`, `--game-exports` and a fresh `--out`.
+The v6 provenance records game build, input-manifest hash, output SHA-256 and the
+reference compositor revision. Weapon vertices are converted from VRF's glTF
+metres into Source inches with a -90-degree X node rotation for the existing
+viewer camera and lighting. The compatible glove geometry is retained unchanged.
+
+Game material export follows the complete vcompmat/vmat resource graph. For
+formats unsupported by Source 2 Viewer, the installed Valve resourceinfo utility
+exports mip 0 to TGA for lossless PNG conversion. Baking is offline in Chromium
+with Three.js and the referenced 5stack material compositor; its source is not
+redistributed here. Never substitute a catalog thumbnail or a recolored base
+model for a missing paint. Release GLBs contain their own embedded images.
 
 Viewer bundle v2 adds an embedded **AK-47 Aphrodite (1397)** preview to the 65
 unchanged compatible models. Its 7 MB GLB contains the HD model and all four PBR

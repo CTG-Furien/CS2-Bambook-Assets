@@ -1,0 +1,2610 @@
+{
+  "schema": 1,
+  "repository": "CTG-Furien/CS2-Bambook-Assets",
+  "tag": "models-v6-78c60e9ccade",
+  "models": {
+    "studded_brokenfang_gloves.glb": {
+      "bytes": 6574096,
+      "sha256": "dd5c147bffc862a263637a086cf7700ab8de31cd3630f5a8d77a9b45cd7f561a"
+    },
+    "studded_bloodhound_gloves.glb": {
+      "bytes": 6817088,
+      "sha256": "a371c331c0ff5abfc5ba33f9575f686dc01257ff4cee9e0c4d379b9c7c9a2611"
+    },
+    "sporty_gloves.glb": {
+      "bytes": 891008,
+      "sha256": "0c54285d13cb5944c5d6231bf25f63cd89eeea8a9f3c8226dec2915cdf59918d"
+    },
+    "slick_gloves.glb": {
+      "bytes": 603176,
+      "sha256": "6946c25251893340688b9a43c196f9c3d547be46455815ad19e39eca8ea67fcc"
+    },
+    "leather_handwraps.glb": {
+      "bytes": 6369068,
+      "sha256": "1ca8f16f3815bc51388cd6dbbfd803b81fac8cfb0a8f58763d407f02f38c6d39"
+    },
+    "motorcycle_gloves.glb": {
+      "bytes": 878488,
+      "sha256": "a5045d781b31bb8d511a6e8a6bde7ee23791e886d09ac4fc3cb1c88ad9600b75"
+    },
+    "specialist_gloves.glb": {
+      "bytes": 1112048,
+      "sha256": "88daa6da2c8e8a782860a4784bbe662bf566bb8363fa12a896d5bd765c907519"
+    },
+    "studded_hydra_gloves.glb": {
+      "bytes": 6837572,
+      "sha256": "c949b3bf24b530c1833e1585136284e06e7da5e2443e167dc8f72f94f0dc0956"
+    },
+    "weapon_ak47.glb": {
+      "bytes": 4052692,
+      "sha256": "db2bc422a7570e55187c7cd5e1bf442801964f05b5eca338c3241d977dfbacea"
+    },
+    "weapon_aug.glb": {
+      "bytes": 4940804,
+      "sha256": "7c7614be46fabba7fbcca4943b4820100288af2bdc717e8ba28d8d555635a798"
+    },
+    "weapon_awp.glb": {
+      "bytes": 4614216,
+      "sha256": "925399b2c3478806619042aada9cb169cace37f160ca9b8a44a2cb01162a802e"
+    },
+    "weapon_bayonet.glb": {
+      "bytes": 853996,
+      "sha256": "f08169d5acc92162de17b5a113cc259e4cd09dee4c8ba97e0ee65c7c263d61f5"
+    },
+    "weapon_bizon.glb": {
+      "bytes": 3730828,
+      "sha256": "72e14d501ecbe19c5e9b68ade2ad7e879576afb05b90284b0f3eedc5ffb50b99"
+    },
+    "weapon_cz75a.glb": {
+      "bytes": 6695420,
+      "sha256": "56e62dbcebcbe5415985ba60e05c8434df3a52fe52f8463ec6ee8c13c8be14c3"
+    },
+    "weapon_deagle.glb": {
+      "bytes": 3296804,
+      "sha256": "0dffe94b3aca830612894387dfa61abdc38040e9c97e30150a6d31e1adb9cc46"
+    },
+    "weapon_elite.glb": {
+      "bytes": 3071736,
+      "sha256": "a7eb329c71483b18b8f2862d1d4a1f8445f69a1b1e46e91aad83608ebd620f47"
+    },
+    "weapon_famas.glb": {
+      "bytes": 3808116,
+      "sha256": "3d008103532c2209ca0d869acb58df4d8ee069e9495040a75a61700268ee5712"
+    },
+    "weapon_fiveseven.glb": {
+      "bytes": 3347816,
+      "sha256": "66bdf5da3c349812ff2b11bfde5ede2974d7259d402cb93ccbdf73dcee3a992b"
+    },
+    "weapon_g3sg1.glb": {
+      "bytes": 4505568,
+      "sha256": "8bf5f9dfc4748ff593bb5c9b148471dd9a1e75667044259beb58ea21cdf92843"
+    },
+    "weapon_galilar.glb": {
+      "bytes": 4078308,
+      "sha256": "54a0cedc397acbdc96c9936aaedd850444231c4bfee95b0b5c3a2406a1a70a4e"
+    },
+    "weapon_glock.glb": {
+      "bytes": 2638088,
+      "sha256": "64fddd672d7c88c3622d72b78d9c85aa7b2e9ce337d78e141306fc08255eaca9"
+    },
+    "weapon_hkp2000.glb": {
+      "bytes": 2924976,
+      "sha256": "8042a0a123601f77b9b524a665aab93be01f2aaee395d29cfa9f61cec4c22ebc"
+    },
+    "weapon_knife_butterfly.glb": {
+      "bytes": 976124,
+      "sha256": "96052d503a44801241b7c2ac8d9e2cd2c82aaa2d706caa0d80c09c5fa8cf9c71"
+    },
+    "weapon_knife_canis.glb": {
+      "bytes": 806044,
+      "sha256": "2f60db99edaba985cb8f1c7a707af5f816cee05e16d4835069887671077218a0"
+    },
+    "weapon_knife_cord.glb": {
+      "bytes": 1342908,
+      "sha256": "01d679616f459879e73ec77f81fde3ad9ba042fcdbebcc4ca0ba31c45050ac97"
+    },
+    "weapon_knife_css.glb": {
+      "bytes": 852864,
+      "sha256": "2cc0bf61e15d12f0bf78035ee5a6268c2c8adce203de73d11d5b2203d12606eb"
+    },
+    "weapon_knife_falchion.glb": {
+      "bytes": 849172,
+      "sha256": "ebe90fae0d1364c6191aa9a5d892a663e26611fea057e2bfee6dd64757080cf8"
+    },
+    "weapon_knife_flip.glb": {
+      "bytes": 860752,
+      "sha256": "5d1055702728c5b42db22b34241615c74ed35d5f7c34ba8b25c3280bf18d4a62"
+    },
+    "weapon_knife_gut.glb": {
+      "bytes": 1012068,
+      "sha256": "e135edbc469f919e0bca38cdf5aaf4a36a5ced987d78567d2faa2c0922b441d3"
+    },
+    "weapon_knife_gypsy_jackknife.glb": {
+      "bytes": 995496,
+      "sha256": "ea98b933e1af7c1e6c846e3b2bbd7a0ebc5eee80a6c467be4ba2bbfd777a5ef0"
+    },
+    "weapon_knife_karambit.glb": {
+      "bytes": 1074220,
+      "sha256": "552cf90d9ecad457277c872e7c9535e3536a997b914c7552f6cd120dacd2a21c"
+    },
+    "weapon_knife_kukri.glb": {
+      "bytes": 875136,
+      "sha256": "bffceba369e1a3ae33b08ce89fd80db46984ab926d0d506c2a487a42ac36043a"
+    },
+    "weapon_knife_m9_bayonet.glb": {
+      "bytes": 1055256,
+      "sha256": "61e33e149e1022ab346a76bcf3f50a3aa5754c54cfe5c3baf79673ab111e3623"
+    },
+    "weapon_knife_outdoor.glb": {
+      "bytes": 1233144,
+      "sha256": "4a180d85ea838dd81322cb76be6b0613a9721fdb496e0fde7deb8ab8a80aa37c"
+    },
+    "weapon_knife_push.glb": {
+      "bytes": 773232,
+      "sha256": "38a90e135babee1dc22a4bd1755c194168919bc9fd4b531acc6aa3c0d5474ecc"
+    },
+    "weapon_knife_skeleton.glb": {
+      "bytes": 720520,
+      "sha256": "73fe7646582971d9665ae492821b9721128ee0d96718b2c9b0c63c6729e9d537"
+    },
+    "weapon_knife_stiletto.glb": {
+      "bytes": 1015388,
+      "sha256": "19d27ade76f4b7d0dbe4e9b39236605e9d9069eef35cfd444fceee2e0f24a93e"
+    },
+    "weapon_knife_survival_bowie.glb": {
+      "bytes": 1253040,
+      "sha256": "31f78eb2173e293b5ab8211da6f1ab67ceb45203392f634fd34ffdae6582d9e6"
+    },
+    "weapon_knife_tactical.glb": {
+      "bytes": 1315856,
+      "sha256": "48f9b9d574167eb6f0c4e8ca484e549d49fd3b186f55fc8ced9fac74362cefb3"
+    },
+    "weapon_knife_ursus.glb": {
+      "bytes": 773036,
+      "sha256": "466e499808842f3b900c239916e9842275428839bd3fbf2aa3745d0f2f3c962f"
+    },
+    "weapon_knife_widowmaker.glb": {
+      "bytes": 895944,
+      "sha256": "d6c0497b7d39a213523047d27465fdb35ccd5763ea108cb9b2c2c7b961d7c1a3"
+    },
+    "weapon_m249.glb": {
+      "bytes": 5774748,
+      "sha256": "a32b3c872c8ca8483a1912672656ec33c0161714715254653551b6622ce2fdae"
+    },
+    "weapon_m4a1_silencer.glb": {
+      "bytes": 4931652,
+      "sha256": "5017951096a1011c65e251a3b1a89a01555e9f9f27ee19625ca4cea25a944b62"
+    },
+    "weapon_m4a1.glb": {
+      "bytes": 4634224,
+      "sha256": "e56db3156fda057318a26875bee1e598503473e1d55f5c8d57da9b77eac967ab"
+    },
+    "weapon_mac10.glb": {
+      "bytes": 3026168,
+      "sha256": "dc47bf5baa64e788e751540a616b48c895680e37b0204c9e704ce3e3c4dfd66f"
+    },
+    "weapon_mag7.glb": {
+      "bytes": 3036372,
+      "sha256": "9835c61d99b465f6de23ed2a12e3b89e218049cc7c408b502ac89c0bee47be2a"
+    },
+    "weapon_mp5sd.glb": {
+      "bytes": 4296196,
+      "sha256": "e344b7d74bf19984e433f8132944a9c04e649c3dc3b0fb8af61f1d9a4d27f6fb"
+    },
+    "weapon_mp7.glb": {
+      "bytes": 4071884,
+      "sha256": "735ad443f18fcd7a2ac0fa5cf2e5e4e43fa822c8cab85e6f7d29e5ab2f40d63c"
+    },
+    "weapon_mp9.glb": {
+      "bytes": 3683796,
+      "sha256": "b218352e9784b5e9f75caa381245324dca2ccc009b5c20f2ef410c193d648012"
+    },
+    "weapon_negev.glb": {
+      "bytes": 6124644,
+      "sha256": "ebe9e6709ad801e47ef0b0fba2953a060a34e1041222143688cbb320bbb35e76"
+    },
+    "weapon_nova.glb": {
+      "bytes": 3923020,
+      "sha256": "910ac4a19e856607c40e8eb6822d39f484e201eb9e73e0a027d7589b9cf0b140"
+    },
+    "weapon_p250.glb": {
+      "bytes": 2795976,
+      "sha256": "55884b57dcccbfc25a7cb74e9cfe953171ff746ecc83dbfcdbd00604d2322c42"
+    },
+    "weapon_p90.glb": {
+      "bytes": 3524544,
+      "sha256": "d8c2cce49205ff5d5d4013663209165437f375421819edb815f3b228de70dd62"
+    },
+    "weapon_revolver.glb": {
+      "bytes": 3598608,
+      "sha256": "860045e637e52ec049c2347c0ce68c1fec96b6ecf626ead8bedf18e7013b1dae"
+    },
+    "weapon_sawedoff.glb": {
+      "bytes": 3220984,
+      "sha256": "01e3335bb9174fc6e52721ef5eb649307b59be2abfb8b604329adc27457488f6"
+    },
+    "weapon_scar20.glb": {
+      "bytes": 4931020,
+      "sha256": "f4db1176c283e4cbe641defa4d6fb538eb696c07e0eb4071111604d6a7c756c6"
+    },
+    "weapon_sg556.glb": {
+      "bytes": 5069704,
+      "sha256": "194be5722402c7ac1e8add5ac9d0ee9f985e0f489703af25d7abad29a275ed88"
+    },
+    "weapon_ssg08.glb": {
+      "bytes": 6350336,
+      "sha256": "f5d06b6c752281ea4a781f4d0b1adf06cf246c3b259dc78eea5d88767315fbf6"
+    },
+    "weapon_taser.glb": {
+      "bytes": 1345332,
+      "sha256": "e464857630d50ac37cd9341737444c516cad58e1ac5e6c2f72ffef61fd52354c"
+    },
+    "weapon_tec9.glb": {
+      "bytes": 2853216,
+      "sha256": "1aec55932137639e4b0358c4708920b4cb8dfe497d809f524c91e7f040359fbd"
+    },
+    "weapon_ump45.glb": {
+      "bytes": 3671272,
+      "sha256": "2f9970a2f77e2c7c61a89d6accf25fb1658e55b53fa3e09c37693c4f4a2998d3"
+    },
+    "weapon_usp_silencer.glb": {
+      "bytes": 3192008,
+      "sha256": "3293d26dea233756eb49168ea38f1b540001fa40856b5b70318cb56e85ab0cf2"
+    },
+    "weapon_xm1014.glb": {
+      "bytes": 4106276,
+      "sha256": "588e977c7bb31a46f6874ea5d4a53dc2ee4945a8eb240c3748b687e21b6b229f"
+    },
+    "weapon_ak47_paint_1397.glb": {
+      "bytes": 7014384,
+      "sha256": "48010fcf7b7e0aa22643988d02e6b4c7f2a05f4f7ebdaecc81b0169758e3a7b0"
+    },
+    "slick_gloves_paint_1398.glb": {
+      "bytes": 6411840,
+      "sha256": "07af1818d35831edda8a1764429a118c3b9ea0e2926d3dea84cd1ce4ce20bbb8"
+    },
+    "slick_gloves_paint_1399.glb": {
+      "bytes": 5597812,
+      "sha256": "7a98290d314d0b7e5ca4695790f7e3e100b1eb3e3d3ba64046ce48c152873312"
+    },
+    "slick_gloves_paint_1400.glb": {
+      "bytes": 5709012,
+      "sha256": "d4e66f141cfc2a4888cff09eedc11bb43ab3d645cd2013b5b88970cf2253af16"
+    },
+    "slick_gloves_paint_1401.glb": {
+      "bytes": 5963556,
+      "sha256": "7bd067c049622617c47b0eabc52c06482b68bf03c103824c16d5f95d66414161"
+    },
+    "slick_gloves_paint_1402.glb": {
+      "bytes": 5359132,
+      "sha256": "2e68f36e9133e41f0d7a4d12c92dbc66bb5e30a1ba1f7f49c2c8e80c6521b842"
+    },
+    "slick_gloves_paint_1404.glb": {
+      "bytes": 5692000,
+      "sha256": "cca881fcdf6e41a4fdb4212e5e56fd11d9821aab305332caf78932e4129af306"
+    },
+    "slick_gloves_paint_1412.glb": {
+      "bytes": 6223380,
+      "sha256": "55e074961d22d84118af3be3fdda5c522cabba473a92cc9fc64a67c5a10cd196"
+    },
+    "slick_gloves_paint_1439.glb": {
+      "bytes": 5548524,
+      "sha256": "23020d68de58ea6c29c42364836f773a26ec436088aff39253353c9dd1eef417"
+    },
+    "specialist_gloves_paint_1413.glb": {
+      "bytes": 6167564,
+      "sha256": "994d3d61663d71cbdda5b19290b04b77ed057ae65def8d3e9e273e0232ef23ef"
+    },
+    "specialist_gloves_paint_1414.glb": {
+      "bytes": 6298932,
+      "sha256": "89f93679d32946571ffe2a8d852d08c2db46d00aed74395a048c681d9501b3c4"
+    },
+    "specialist_gloves_paint_1415.glb": {
+      "bytes": 6463772,
+      "sha256": "d397fcc295763e1b2b44a8c4cfbea016ae01b05ceed89fbbfb2cf53c8e07ad1e"
+    },
+    "specialist_gloves_paint_1416.glb": {
+      "bytes": 5968608,
+      "sha256": "3d3d5712956fdf01c6e875ca22607db8b7c49f1443290bc976c720bb82feb85b"
+    },
+    "specialist_gloves_paint_1437.glb": {
+      "bytes": 6839180,
+      "sha256": "c112015c8f237433d88abc2873c4676881c443a33d546684bf0b6e567367d7f0"
+    },
+    "specialist_gloves_paint_1438.glb": {
+      "bytes": 6560812,
+      "sha256": "b93db5578e42ea30991836f7365c0acda10f2872edce6c94b274228f2a6826c7"
+    },
+    "specialist_gloves_paint_1440.glb": {
+      "bytes": 6866928,
+      "sha256": "ab3e244d6c62c8203892e140c3dfe86c74813f87bb2eb5c9cc48660f1ec53cdc"
+    },
+    "sporty_gloves_paint_1405.glb": {
+      "bytes": 6326432,
+      "sha256": "3ff2e754c06305839ea7684c2341c9148b65c6da81596b932aa3ec9428c0e617"
+    },
+    "sporty_gloves_paint_1406.glb": {
+      "bytes": 6368580,
+      "sha256": "eb14730ec6538df87726a83f4147aaeaabdfba68ba1737809aefe885d737b886"
+    },
+    "sporty_gloves_paint_1407.glb": {
+      "bytes": 6414568,
+      "sha256": "5daecd78a683424bc155030d5b391531d75976feb3f34dff50b810f42a8d0a88"
+    },
+    "sporty_gloves_paint_1408.glb": {
+      "bytes": 6238540,
+      "sha256": "0dcdfa86964f8b372a485a022698fab75680cccb6ec3190e74a379c4c2ef4795"
+    },
+    "sporty_gloves_paint_1409.glb": {
+      "bytes": 6193428,
+      "sha256": "b8c8d6e995b758a6c190149c4725154c178a184f345c31cc3126661ee03ed98e"
+    },
+    "sporty_gloves_paint_1410.glb": {
+      "bytes": 6661700,
+      "sha256": "46076289fccd3734e22a65be00bd1648f536046bb673a874950f7b7e77bc43e4"
+    },
+    "sporty_gloves_paint_1417.glb": {
+      "bytes": 6084268,
+      "sha256": "08503f66070061710d5587828ff3f97b3f15a652e5f03dc60a202235cad0ded5"
+    },
+    "weapon_ak47_paint_1218.glb": {
+      "bytes": 6406384,
+      "sha256": "3cb21f6522867f90f65aa6ad99b0879aab51629e146684be9562b3c97005c8cc"
+    },
+    "weapon_ak47_paint_1283.glb": {
+      "bytes": 5674436,
+      "sha256": "5493f29acd7cdc75efaf42b74c188663055cc649cd43eb792789984834d80e97"
+    },
+    "weapon_ak47_paint_1288.glb": {
+      "bytes": 4428460,
+      "sha256": "c6a75a56d9237a27faa2d290b81870868ee684cb26f7668eac289b41261d40fc"
+    },
+    "weapon_ak47_paint_1309.glb": {
+      "bytes": 5530540,
+      "sha256": "5c1ef2b72c3f72909be568c6a276f1f61c160768a0d1d9245773138e82971003"
+    },
+    "weapon_ak47_paint_1352.glb": {
+      "bytes": 6258048,
+      "sha256": "be8f0be59271985f1a1f76f75157f1f90c18b2449357f843cd3840ce4082ebce"
+    },
+    "weapon_ak47_paint_1358.glb": {
+      "bytes": 5072968,
+      "sha256": "bdfcc8f00c9a53e13577cc7dc33ef053d46c229eecdb3faca66e607c0e4d964f"
+    },
+    "weapon_ak47_paint_1425.glb": {
+      "bytes": 6179736,
+      "sha256": "e3ca04ddb96c258f508d23f786287d2d18872a708f90ce894298f731be994940"
+    },
+    "weapon_ak47_paint_1449.glb": {
+      "bytes": 5443312,
+      "sha256": "00d06936c5c7ba0de3ef98e730ebd728e51f80f7552fa120617fda4d1ea33fac"
+    },
+    "weapon_ak47_paint_1466.glb": {
+      "bytes": 6885692,
+      "sha256": "5dcf316bc1a32e62059e74b0bd7aa100954fdb6f40a6b76223e91fae6a4d87b3"
+    },
+    "weapon_aug_paint_1198.glb": {
+      "bytes": 7092696,
+      "sha256": "f9fe11ca5d1cb2d8f4b6a9e736ff322300273403148c29f86f56b744318d53b4"
+    },
+    "weapon_aug_paint_1308.glb": {
+      "bytes": 6197860,
+      "sha256": "789d0de68d929a864b19fc6725f9a4750fbb646d414fc1064d61148e200cbad7"
+    },
+    "weapon_aug_paint_1339.glb": {
+      "bytes": 6201824,
+      "sha256": "34632a95b7701b0342b6776777cc5ef14fbdb589880987cc89d33fa7681196c3"
+    },
+    "weapon_aug_paint_1362.glb": {
+      "bytes": 6154520,
+      "sha256": "d7a0379f2a57d84d869a54aac271158bd0897f033ba719875f087e2b1bc680f6"
+    },
+    "weapon_aug_paint_1452.glb": {
+      "bytes": 6735364,
+      "sha256": "4fb6ad8ab407bd085ebeae6f979499978e924f4a774504f4ed0bab4d9a0bbca0"
+    },
+    "weapon_aug_paint_1464.glb": {
+      "bytes": 7461384,
+      "sha256": "1825fd229ac7795b0e27e3325eb54ae9f288334a193cde105effe5230599eb2d"
+    },
+    "weapon_awp_paint_1213.glb": {
+      "bytes": 7251584,
+      "sha256": "dd5c95cfd9048017f6c7d1f76ac10812e29e5fae74528055aad7a1f71bc28045"
+    },
+    "weapon_awp_paint_1280.glb": {
+      "bytes": 7203440,
+      "sha256": "05c3ba3077cfd7dbfbff81238df22effb2a00a7bc21310431cfbba79a5d810d7"
+    },
+    "weapon_awp_paint_1324.glb": {
+      "bytes": 6711084,
+      "sha256": "349bffe8a248e65d2d0944c96ac30fa098d5eaacc9bfc8b1e785334f5d9b0952"
+    },
+    "weapon_awp_paint_1346.glb": {
+      "bytes": 7654644,
+      "sha256": "ec3cacf9c61df12f8d6c471ae968a78921a25e3f6440706e25c38c50cceecc70"
+    },
+    "weapon_awp_paint_1356.glb": {
+      "bytes": 6819848,
+      "sha256": "93d083f213b4a8e7435d6b909b0c04d20db24b281702859c28ae58d85223a8e2"
+    },
+    "weapon_awp_paint_1378.glb": {
+      "bytes": 6853740,
+      "sha256": "afc9e2b229e9e67d4f4ffb9dad4d724bf0e3bca2c022a1b43ede7295bcd4ed91"
+    },
+    "weapon_awp_paint_1422.glb": {
+      "bytes": 7246344,
+      "sha256": "d13a7c45d9fe29dce22f6cf408d3b578cb292dfae58de07bb064f22ec10ea3eb"
+    },
+    "weapon_awp_paint_1465.glb": {
+      "bytes": 7724836,
+      "sha256": "429800479406e548b32b0b71fedd79e903172a68e0688144204383d9e337963f"
+    },
+    "weapon_awp_paint_1467.glb": {
+      "bytes": 6687244,
+      "sha256": "1437c1a52ec4fb21a6cfa7b0eab137a387dae5e291e3d200544fcdac3a9596ac"
+    },
+    "weapon_bizon_paint_1325.glb": {
+      "bytes": 4997424,
+      "sha256": "cff44849f04aafb317aa7b0e754e597b6436e1c5ce9ed03487a2ff2290657741"
+    },
+    "weapon_bizon_paint_1374.glb": {
+      "bytes": 5178824,
+      "sha256": "c543579b21c0ee98f929b7836f7163541d29c16d06e8ca9174088d427c903930"
+    },
+    "weapon_bizon_paint_1392.glb": {
+      "bytes": 5026444,
+      "sha256": "6f5a104e80d9b37a5b02b1c073c01c81253cfa269104b2809f08c42512617661"
+    },
+    "weapon_bizon_paint_1418.glb": {
+      "bytes": 5697256,
+      "sha256": "36ab1dd656af4eeb451b67faaa39e9079abfd051ece14460ab5a982dc8350e48"
+    },
+    "weapon_bizon_paint_1472.glb": {
+      "bytes": 6425264,
+      "sha256": "c17461219c478d9510b1d7590e33df0dbd1b6bda8cf7175b9eead35aa352d87f"
+    },
+    "weapon_cz75a_paint_1195.glb": {
+      "bytes": 4610044,
+      "sha256": "b031a99df0fc1a26ccd1248c57900099e9deb39be8dc9872c8593bb95500faa4"
+    },
+    "weapon_cz75a_paint_1329.glb": {
+      "bytes": 4031020,
+      "sha256": "62a7e987cc919591e43598e9d74a01a22a2e0f33ee6920efadda5873f2caf149"
+    },
+    "weapon_cz75a_paint_1390.glb": {
+      "bytes": 4406000,
+      "sha256": "ea0f31f3a4054b1324f819f724c053493ba692ba2eba5a4e277ba8ff6f8fcef6"
+    },
+    "weapon_cz75a_paint_1443.glb": {
+      "bytes": 5344568,
+      "sha256": "a6a51a8590add6fe236f6563c1f30884b45c2353390bb91e95cf08dba9de76d8"
+    },
+    "weapon_deagle_paint_1257.glb": {
+      "bytes": 4508580,
+      "sha256": "42af07a998a0ce9c73cc70d6304bb34355d4acde0b4776324b968959a35c9a95"
+    },
+    "weapon_deagle_paint_1318.glb": {
+      "bytes": 3965236,
+      "sha256": "ee0fe23f352a1a6dd2b4f648bbad8b3cf6f3c5aebd587dc7bcb533b5e9d038e7"
+    },
+    "weapon_deagle_paint_1360.glb": {
+      "bytes": 4504164,
+      "sha256": "97e5e602aaa213f0dc727f989eeac296cbf2236238bb7a51a7aa5bc65cbcb754"
+    },
+    "weapon_deagle_paint_1430.glb": {
+      "bytes": 5661916,
+      "sha256": "9138677fdb54b4543e5b59a525b66de6d06b78c5526eadc0a6323e54cb3df3ea"
+    },
+    "weapon_deagle_paint_1458.glb": {
+      "bytes": 5628892,
+      "sha256": "f902598fe750c3c3253648cc8e56dca2e1895ba5997f1e666ded9b66532bcc55"
+    },
+    "weapon_elite_paint_1263.glb": {
+      "bytes": 5800008,
+      "sha256": "7410e7c4d50efd47e2819944e0e4e902083e50b1148ca575352aec74f751d809"
+    },
+    "weapon_elite_paint_1290.glb": {
+      "bytes": 5604544,
+      "sha256": "96df9c0e3f90dd5219b231f431e8f5c89992f0672c2abff937148863ab32ff08"
+    },
+    "weapon_elite_paint_1335.glb": {
+      "bytes": 5608696,
+      "sha256": "6e48b6147f7f72638da09c5519e36754b8129e96619578d8304c35ea8bfd85e6"
+    },
+    "weapon_elite_paint_1347.glb": {
+      "bytes": 7264676,
+      "sha256": "9bae773779bb03229af2b8e3623c49979afc5abec2a8f5e7294eb1042306cc63"
+    },
+    "weapon_elite_paint_1373.glb": {
+      "bytes": 5936820,
+      "sha256": "1710eef70e3f0a1fbf0c8e1a0b77138e9174211d594a2eb03276d8a2decbe6ce"
+    },
+    "weapon_elite_paint_1459.glb": {
+      "bytes": 6905132,
+      "sha256": "3d67f615b3a95c077cb61a75b8cb3de44965bd01456f58513f4325e0f1be82bc"
+    },
+    "weapon_famas_paint_1202.glb": {
+      "bytes": 6782988,
+      "sha256": "9d837296fe2c3da623debe62824ec4de472211437a6ae51c53984a029a70cd4c"
+    },
+    "weapon_famas_paint_1219.glb": {
+      "bytes": 5309156,
+      "sha256": "14b8c1918f95023702ad313f951fd2776034f934ba62edfaf2288e3efbbf57d4"
+    },
+    "weapon_famas_paint_1302.glb": {
+      "bytes": 5358568,
+      "sha256": "c4acfeec21a2ff1312a6cbe4f69159d5bdb4d16a26ccf5b13c138e2888fc66ab"
+    },
+    "weapon_famas_paint_1321.glb": {
+      "bytes": 5237648,
+      "sha256": "70a2b4d6281f4fd3460ec2a8e2a7370b83267a18dd3b7f1d1dd4b6f66dce1782"
+    },
+    "weapon_famas_paint_1365.glb": {
+      "bytes": 5248444,
+      "sha256": "dfe6477d3724df7dce240800cceef75a21899b46b8d40ee9c8ca2df14cb860e8"
+    },
+    "weapon_famas_paint_1393.glb": {
+      "bytes": 5674288,
+      "sha256": "bbde4e1565b39d809c18c6664fe4498e8ed5d568a2a9629e2a9e8e06709ff1bb"
+    },
+    "weapon_famas_paint_1461.glb": {
+      "bytes": 7500248,
+      "sha256": "c49ad43bfcd598f1acb11ab602bd7777002db5c0c91b7df96e04bade424f3a1a"
+    },
+    "weapon_famas_paint_1477.glb": {
+      "bytes": 5821384,
+      "sha256": "19e1a2081313a60d32e571273b211ced8892942b9f38c437d9afdd69a603cf25"
+    },
+    "weapon_fiveseven_paint_1262.glb": {
+      "bytes": 4773908,
+      "sha256": "3650d29a63f2e23ef3a592bb9f62d89f7be2702ed036c3eb339f4f62d75e9ca1"
+    },
+    "weapon_fiveseven_paint_1336.glb": {
+      "bytes": 5039144,
+      "sha256": "e4b96e23e01366fa60023da973196a22251f902b9b4dae4258aa80976866d8ce"
+    },
+    "weapon_fiveseven_paint_1380.glb": {
+      "bytes": 5126024,
+      "sha256": "11b1b4d2b81a089513fea7a7e95f6813a05f1b9b2778b4441007003027e8257b"
+    },
+    "weapon_fiveseven_paint_1429.glb": {
+      "bytes": 6010584,
+      "sha256": "79ff8c742395cd0fb518c9b012e9af7b60ca7c25a4815f8cf8da86b10b1b026f"
+    },
+    "weapon_fiveseven_paint_1457.glb": {
+      "bytes": 6002820,
+      "sha256": "0f97c344a3e6befd74f8c27f2799ef9b655e431a68d976756042d3571359129a"
+    },
+    "weapon_g3sg1_paint_1305.glb": {
+      "bytes": 6733740,
+      "sha256": "8e38fbe909c21624958e9bba639af8b7700e9308150601276c94a295aaf453f2"
+    },
+    "weapon_g3sg1_paint_1328.glb": {
+      "bytes": 6207176,
+      "sha256": "47ed0f9fc4dde92a269bed106492b5971087fc766c1be7fbe7894888994d3cf7"
+    },
+    "weapon_galilar_paint_1264.glb": {
+      "bytes": 6171836,
+      "sha256": "1221c4c80cefbbd06df92f8062fbbeaed98cdce33d3c2fc5c43794b54d7148ad"
+    },
+    "weapon_galilar_paint_1275.glb": {
+      "bytes": 5987744,
+      "sha256": "b020130363aa8b3a6ba519d5f137ff0c99aab847ddc35576614f1d897beea3ae"
+    },
+    "weapon_galilar_paint_1296.glb": {
+      "bytes": 6336280,
+      "sha256": "2ab37575f9261066d9fb599a3baa0059d6930ab45efea774203b00103719d4dc"
+    },
+    "weapon_galilar_paint_1314.glb": {
+      "bytes": 6151388,
+      "sha256": "e0d0a4f120a39e47c80645f67f310ea59050b27148a45eb2b1e26ba611d20dde"
+    },
+    "weapon_galilar_paint_1383.glb": {
+      "bytes": 6698300,
+      "sha256": "7035da38fd33eb7ca762490e0958f51278993aa5b1f8468a1fc7709b9b50fdd2"
+    },
+    "weapon_galilar_paint_1434.glb": {
+      "bytes": 7301092,
+      "sha256": "9c8a4794e9764c45e32c9afd986c8bd5d5e82ca12f01597f184eeeb0707197df"
+    },
+    "weapon_galilar_paint_294.glb": {
+      "bytes": 5953392,
+      "sha256": "221e077b9bcb4a98c8f0823c0a129f83ab86849b455c2683b4d46b844917621a"
+    },
+    "weapon_glock_paint_1200.glb": {
+      "bytes": 4467180,
+      "sha256": "18879aa7bd37ae367f20bd8941f1ffefc517f000fb585352222240c99e13fd71"
+    },
+    "weapon_glock_paint_1265.glb": {
+      "bytes": 4327048,
+      "sha256": "3563ecdce84204e2dc2b1e92b3a80aa2fb382d31232ccc1ba70245469b4c0ca8"
+    },
+    "weapon_glock_paint_1282.glb": {
+      "bytes": 3760080,
+      "sha256": "35476d1379840f07471eb732465e3964424f3ea900f6720d49ac5c88636c2810"
+    },
+    "weapon_glock_paint_1312.glb": {
+      "bytes": 3427476,
+      "sha256": "cc7feff675e989358b30c7cec3b9f24f532bbf9a09c02e7580facdf4197ebe4b"
+    },
+    "weapon_glock_paint_1348.glb": {
+      "bytes": 5081000,
+      "sha256": "b20acc93d51047e2f4d246b97446c4688b9042125f7b70ad3cdf3cfd0d6b07db"
+    },
+    "weapon_glock_paint_1357.glb": {
+      "bytes": 3745856,
+      "sha256": "95cfb62c3cecd3bf9257f571d90a4552254e0db331c9b66bf4e4ff13476f8a7c"
+    },
+    "weapon_glock_paint_1421.glb": {
+      "bytes": 4166988,
+      "sha256": "19ee6dc4cd23251f5bfa7a4491f14fc3c25013ded0274a783f051db019d5db4a"
+    },
+    "weapon_glock_paint_1450.glb": {
+      "bytes": 4540388,
+      "sha256": "65d716727b08589e98dd300a0b1e9318ab346092d62858dce45378094eec81ad"
+    },
+    "weapon_glock_paint_1460.glb": {
+      "bytes": 4875708,
+      "sha256": "3134843353441b44c1a455eeccb44b99340313d527bccd0fd687d980e2080cf1"
+    },
+    "weapon_hkp2000_paint_1259.glb": {
+      "bytes": 4063796,
+      "sha256": "a47a209287af9843c0bafe93b5a961d7dff59205815816d8727c6595a89e22f8"
+    },
+    "weapon_hkp2000_paint_1292.glb": {
+      "bytes": 3959968,
+      "sha256": "410bf4ff749f9c9e042bc968bfe74f4ab90d8cca0423825c13e3f97d5e76bcfc"
+    },
+    "weapon_hkp2000_paint_1342.glb": {
+      "bytes": 4704484,
+      "sha256": "935d797f44122bb0cc93d90ee7e05d3cdabe9c8aa9724d19bdcf60868596020e"
+    },
+    "weapon_hkp2000_paint_1359.glb": {
+      "bytes": 3711852,
+      "sha256": "7f1f8a1a32a78f20330c6f00e89e172c98498e929a1fb30f42156ea1435fb6db"
+    },
+    "weapon_knife_canis_paint_415.glb": {
+      "bytes": 3103772,
+      "sha256": "4b9d45da269e05fcbe6a5541e0124c2a4dbbd4537ea8de4ed373521034fe77fd"
+    },
+    "weapon_knife_canis_paint_416.glb": {
+      "bytes": 3158508,
+      "sha256": "d28c8b6d307cbcda1bd768d3500d9a3a8db0af9bc3911af67417bb69d5cbab5a"
+    },
+    "weapon_knife_canis_paint_417.glb": {
+      "bytes": 3118848,
+      "sha256": "02a9fcb8fd6fb92ebd99e36380e9aa7afeec8846b6117d9382b795f086561cd4"
+    },
+    "weapon_knife_canis_paint_418.glb": {
+      "bytes": 3185344,
+      "sha256": "084b1d93dd3c42110749058238c41b70c87019e1f28e8e2d602b5edc3332e833"
+    },
+    "weapon_knife_canis_paint_419.glb": {
+      "bytes": 3231964,
+      "sha256": "8d2da68065c7745dc60383fdc797f861e9a1b82eeb0e9827495bcc4ec4ae19d1"
+    },
+    "weapon_knife_canis_paint_420.glb": {
+      "bytes": 3125540,
+      "sha256": "687aabfcd594b100ccaf9d6c9fcf0b4c4482ff872f255bfbe240d25c7940f4d1"
+    },
+    "weapon_knife_canis_paint_421.glb": {
+      "bytes": 3129188,
+      "sha256": "1d58538d669960add020d78944737afe407c51106c3ab8bce2135d082878d65e"
+    },
+    "weapon_knife_cord_paint_415.glb": {
+      "bytes": 4045972,
+      "sha256": "e09a7617a978ba09e93ada5303a916b2b1add16a55474c4a840c77ec61150a78"
+    },
+    "weapon_knife_cord_paint_416.glb": {
+      "bytes": 4089932,
+      "sha256": "ac1ea045bb55cef2039a34b02df7af1f2771845bfcaee35a45e84eed368a8756"
+    },
+    "weapon_knife_cord_paint_417.glb": {
+      "bytes": 4065880,
+      "sha256": "841f503e7ed1dba46859ecc56e02aa70a6fc0cbab794528017ff4d6f159b2883"
+    },
+    "weapon_knife_cord_paint_418.glb": {
+      "bytes": 4104104,
+      "sha256": "d247faddcd61236e042ebf018241445652d69f3efb2c118f1c875a2b013d7464"
+    },
+    "weapon_knife_cord_paint_419.glb": {
+      "bytes": 4133004,
+      "sha256": "630f7e8dbfa6b63f02116daa8ebb6dc0195031d6092b37474d8ab66ff013d788"
+    },
+    "weapon_knife_cord_paint_420.glb": {
+      "bytes": 4065588,
+      "sha256": "0489abea57f9e50e0d07ca0bf912663408b3b36cc14ed8521d9eb43463f0372d"
+    },
+    "weapon_knife_cord_paint_421.glb": {
+      "bytes": 4068056,
+      "sha256": "3b0a918bb35b4ca211bcaf2f392088ff2ecb062581f334cbd995d633bed8d080"
+    },
+    "weapon_knife_outdoor_paint_415.glb": {
+      "bytes": 4204396,
+      "sha256": "e15b66eac2dfbb9e3654c80f3f3edc57032681a8ee09c932a26d56c7e8ec7dbd"
+    },
+    "weapon_knife_outdoor_paint_416.glb": {
+      "bytes": 4256572,
+      "sha256": "597a1749fc4ba0a88e571f409f62230b4fd8842e602b14ff51b8d8a0a1492ff2"
+    },
+    "weapon_knife_outdoor_paint_417.glb": {
+      "bytes": 4227112,
+      "sha256": "3a0ad793357cf9ea5a56cc9b2f80ee510ba5886ac5c904ba239be64d1a89ab78"
+    },
+    "weapon_knife_outdoor_paint_418.glb": {
+      "bytes": 4272852,
+      "sha256": "c3c014204aac83dfd74ff5a17adbed9e92e5be52d6ebfb07f702339764c86cdb"
+    },
+    "weapon_knife_outdoor_paint_419.glb": {
+      "bytes": 4315564,
+      "sha256": "4bf794c792a349a7d3651ae8b6872cb567fd65e1a9950bf0867c4d7604f5bd62"
+    },
+    "weapon_knife_outdoor_paint_420.glb": {
+      "bytes": 4227056,
+      "sha256": "c626953a17f062f2eae96e0229a21192e3e2904b5e7e532280e8dccde5f345f6"
+    },
+    "weapon_knife_outdoor_paint_421.glb": {
+      "bytes": 4227380,
+      "sha256": "f8d5e692871c03a659587aa522d8826908acc3c19a0b70a2e55be873a424b08f"
+    },
+    "weapon_knife_skeleton_paint_415.glb": {
+      "bytes": 2351444,
+      "sha256": "7bd1c968fc6df8fbbefb75452828050b6c7cee0f4db5869e3f7950b9fda30066"
+    },
+    "weapon_knife_skeleton_paint_416.glb": {
+      "bytes": 2444616,
+      "sha256": "7da4585250a58e71dcba93afb9a8b773badf89c3c0d8e93265a1e8e647503ba3"
+    },
+    "weapon_knife_skeleton_paint_417.glb": {
+      "bytes": 2390272,
+      "sha256": "f0e19d6cbb9e1def21eccf0750a98e86f086498261ef2813f29e83ac68d6258c"
+    },
+    "weapon_knife_skeleton_paint_418.glb": {
+      "bytes": 2479508,
+      "sha256": "9e3c6c8c40793c2a1d7623ccc8b7d4997fa323a5efbbd5691f6f3260c1169680"
+    },
+    "weapon_knife_skeleton_paint_419.glb": {
+      "bytes": 2561716,
+      "sha256": "646d653bd7281692709ee21b7b86cdfef8a666e6cb623ef2ed7f0552795f0ea8"
+    },
+    "weapon_knife_skeleton_paint_420.glb": {
+      "bytes": 2397620,
+      "sha256": "918d48098a4e3a5eaa9e2c08ef6c00bfac2b7c048b853d475f287c77f519825f"
+    },
+    "weapon_knife_skeleton_paint_421.glb": {
+      "bytes": 2396012,
+      "sha256": "1cc4c9f19797f2052200f70c1745a86412e8f8f965d57a64cba56e560cf69626"
+    },
+    "weapon_m249_paint_1298.glb": {
+      "bytes": 7629500,
+      "sha256": "01ceea7d4a7333aff678ada1e94b4d42f26cadc4fb1b2ef3e57f17b844997eb4"
+    },
+    "weapon_m249_paint_1370.glb": {
+      "bytes": 8490280,
+      "sha256": "7c9340877bd598c5bdd242b743586269ee2562e531fa6d65219db985d09381d6"
+    },
+    "weapon_m249_paint_1435.glb": {
+      "bytes": 8480204,
+      "sha256": "30f8f31b2a22cb6ac57cd9cf8971de0252d7cd7e168e761d10fba602cb9f6a5f"
+    },
+    "weapon_m4a1_paint_1209.glb": {
+      "bytes": 7659112,
+      "sha256": "8c91d67232538331a1eb750224019d031a14b820c36c40e933fe145858719dc1"
+    },
+    "weapon_m4a1_paint_1266.glb": {
+      "bytes": 6852204,
+      "sha256": "5845a66d1b8bf9dcaadcfb876c7c01f028f74f64188905bec1f475f40cb57d75"
+    },
+    "weapon_m4a1_paint_1281.glb": {
+      "bytes": 6899492,
+      "sha256": "717730202c40ed42fe13d375887c0ed0631eb8a75eaa159557012f34d5d44da6"
+    },
+    "weapon_m4a1_paint_1313.glb": {
+      "bytes": 6660456,
+      "sha256": "de6bd0475db77bb8dfd11c1fd78baf9d55ca881e0e647c7eab7b99d2051c84e6"
+    },
+    "weapon_m4a1_paint_1353.glb": {
+      "bytes": 8322784,
+      "sha256": "10e8412fea5875723b499f221e86dcb7c60b92e155f459f0d37e94f5c07ab196"
+    },
+    "weapon_m4a1_paint_1364.glb": {
+      "bytes": 6617520,
+      "sha256": "d8bd9df73c50d9b33da73bf66afd59a50ebc4a4a571a4b09b70bb79e191f0255"
+    },
+    "weapon_m4a1_paint_1432.glb": {
+      "bytes": 8252760,
+      "sha256": "b6af8a3b6f5a2be8d46655f2eaab01fe4254a564f8f276dfc6da3a29eb605909"
+    },
+    "weapon_m4a1_paint_1446.glb": {
+      "bytes": 7361520,
+      "sha256": "9936e886a5d978122710739f1a5493fda51d8c86c982afb5e18be2886a06e29b"
+    },
+    "weapon_m4a1_paint_1463.glb": {
+      "bytes": 7401092,
+      "sha256": "bf64f308c5b15b1e38d45d98b697e548286405ffa9b590827153450f14a38d83"
+    },
+    "weapon_m4a1_silencer_paint_1216.glb": {
+      "bytes": 6992304,
+      "sha256": "dfb942668cc87dfed906a1213301e4cccaf73bcea4090c4e79e02948316f138c"
+    },
+    "weapon_m4a1_silencer_paint_1311.glb": {
+      "bytes": 5788620,
+      "sha256": "62ec46672114b8ef2edd741e35cd34c53da78aa56861d490a28a9d57cc56e288"
+    },
+    "weapon_m4a1_silencer_paint_1319.glb": {
+      "bytes": 6490392,
+      "sha256": "1d890973aa93fa33135c33cdce5fb597b4fddecb119730ea19153a416b2f5b7c"
+    },
+    "weapon_m4a1_silencer_paint_1338.glb": {
+      "bytes": 5741340,
+      "sha256": "3d0c1c16ab173971625ac30c122725ec345c8ac3be8d993ea3e28fe4000b3859"
+    },
+    "weapon_m4a1_silencer_paint_1340.glb": {
+      "bytes": 6915192,
+      "sha256": "3693c01e9f1085bc624e4f1da7a9cc7e1ddd9b6b8c8098f26f239844f93e0d1b"
+    },
+    "weapon_m4a1_silencer_paint_1376.glb": {
+      "bytes": 6142544,
+      "sha256": "28449e0aad54ca9c6056a336d8febee342d1d675bede82f55cf1372044851fc2"
+    },
+    "weapon_m4a1_silencer_paint_1433.glb": {
+      "bytes": 7797108,
+      "sha256": "6b690a2f7e52ec1c7c49b0d128c1437f81249a778cd3a724a5689237576e6d72"
+    },
+    "weapon_m4a1_silencer_paint_1476.glb": {
+      "bytes": 6125028,
+      "sha256": "75b5e931a1455c29c2315d24a7254e96c844b0f118d9a7a527fd8eca318325aa"
+    },
+    "weapon_mac10_paint_1204.glb": {
+      "bytes": 5555296,
+      "sha256": "ad5a35a8f9823cc4a026ca4b129e1252b4d481b53bc1d9efd140e6ae98560eaf"
+    },
+    "weapon_mac10_paint_1269.glb": {
+      "bytes": 4379692,
+      "sha256": "fd9de0c9392423371e92a7e9858fc93a898b1018d53b9e708a3d4274cc8ac068"
+    },
+    "weapon_mac10_paint_1285.glb": {
+      "bytes": 4851328,
+      "sha256": "6243a48bdbe54c4d196511062bae5dad78b4fe6542c462c2bec85e79f00901ac"
+    },
+    "weapon_mac10_paint_1295.glb": {
+      "bytes": 4635452,
+      "sha256": "38f22db02588021ad2db38a6af7a4d0136f6e570ac40be0c6241050b7f808a49"
+    },
+    "weapon_mac10_paint_1334.glb": {
+      "bytes": 4398672,
+      "sha256": "0cf09bab2089236c5be79c508be704724ad9f0a85cd55ad42b367882c9a9726e"
+    },
+    "weapon_mac10_paint_1349.glb": {
+      "bytes": 5521108,
+      "sha256": "a1c57b664f0ede17f90664ba6af312eb00e0d734fb309e4af92eb3af1514ed62"
+    },
+    "weapon_mac10_paint_1367.glb": {
+      "bytes": 4736772,
+      "sha256": "566979f499f282c879a0919fc9a4d3159d911615ffc7778c6f151a535acc7975"
+    },
+    "weapon_mac10_paint_1448.glb": {
+      "bytes": 5167228,
+      "sha256": "420e2acf36e6e09fbe0dae1eb84ba1bc3a1158697246802d348015de473e9cbb"
+    },
+    "weapon_mac10_paint_1454.glb": {
+      "bytes": 4331516,
+      "sha256": "4221188342d0b7be5c5b64baad1a7c9e4533b0429dc327bd1d0cc5f38187f67d"
+    },
+    "weapon_mag7_paint_1306.glb": {
+      "bytes": 3936116,
+      "sha256": "ce0d547f00d1055ba1b1f244af8ac329f64b5e58a4473968c9862abedc92a261"
+    },
+    "weapon_mag7_paint_1355.glb": {
+      "bytes": 5527604,
+      "sha256": "66c112eb0774d7c2dfbb5ca8e1fca05f26807137b9358fca12dde6dda65fccdb"
+    },
+    "weapon_mp5sd_paint_1274.glb": {
+      "bytes": 5504820,
+      "sha256": "dd68faf131ccef19e1c9fe5eb12ed42b51d46a23ee1f61991508ef80409b37cb"
+    },
+    "weapon_mp5sd_paint_1294.glb": {
+      "bytes": 5521440,
+      "sha256": "1d4c40f8090dc39c25af2c2530e8be81219713aded6b30fb0cbe1c53e9c8ecee"
+    },
+    "weapon_mp5sd_paint_1344.glb": {
+      "bytes": 6416612,
+      "sha256": "b83483aa8f959923133d55b8dbfafca92083ac1b6cc6cb6b278d5fac1935bdd5"
+    },
+    "weapon_mp5sd_paint_1366.glb": {
+      "bytes": 5756644,
+      "sha256": "361f5bda8365fd42419c8def843bc78f411c3d04d43e6fca44966e9701d2d614"
+    },
+    "weapon_mp5sd_paint_1385.glb": {
+      "bytes": 5453892,
+      "sha256": "5115d4027c5ae80a1a981c71a900d9d3319b919cb86c8e5b0cd0aa616b36e873"
+    },
+    "weapon_mp7_paint_1326.glb": {
+      "bytes": 4856232,
+      "sha256": "56986590e358ee3ebed31bb20cc3224b91c076b3b031d8db880f36a91cfb2acc"
+    },
+    "weapon_mp7_paint_1354.glb": {
+      "bytes": 6979120,
+      "sha256": "9f179641b40886351234af62d6ab7b5f989ca1231ee39c1f598eb813e2eab9f0"
+    },
+    "weapon_mp7_paint_1386.glb": {
+      "bytes": 5526384,
+      "sha256": "849db2bd2eae5cfb03fa669cf4c46c23c95223a451f3a6bd18b80a2ecbe88bd6"
+    },
+    "weapon_mp7_paint_1436.glb": {
+      "bytes": 5219404,
+      "sha256": "28e875a3dccd7bc415f55f7262dcbff56800f5227b5def3e1ab8d54e2b0bc745"
+    },
+    "weapon_mp7_paint_1468.glb": {
+      "bytes": 6591872,
+      "sha256": "0c965dfa4dd2b9d5e6016508734a16810b9802c89544b9aba9c2f49a6658fb2c"
+    },
+    "weapon_mp9_paint_1211.glb": {
+      "bytes": 6158948,
+      "sha256": "e9aa417ea18e5802d8a8b3789b51e62d3a7a8f951b3a3cda06394ee256293cfa"
+    },
+    "weapon_mp9_paint_1258.glb": {
+      "bytes": 5682032,
+      "sha256": "99daba9c0010c4859ea51c2e5f9cf5bf1a9badab39e60556b15dfd31eb7593b8"
+    },
+    "weapon_mp9_paint_1278.glb": {
+      "bytes": 4541768,
+      "sha256": "e474c99a83aa210bda657325487b4a2de8a58c025fd0f74a696eab8f6fade94d"
+    },
+    "weapon_mp9_paint_1301.glb": {
+      "bytes": 4661192,
+      "sha256": "e48b3bfd5854a336f4be9a0e12aa642e9bc4ce5e7aae8cf8d23449f4b6af0d94"
+    },
+    "weapon_mp9_paint_1310.glb": {
+      "bytes": 4932528,
+      "sha256": "a5d8a25e644abb2f65343b00be85c3f2eb33521917ee748f2e2efbb8d2622fd1"
+    },
+    "weapon_mp9_paint_1330.glb": {
+      "bytes": 4855420,
+      "sha256": "24c32cd3ec237994d3a8bb161934eb405a5d824859809717b869dafe3e2ed864"
+    },
+    "weapon_mp9_paint_1341.glb": {
+      "bytes": 5357120,
+      "sha256": "dc7e9a4fb00fb5763f3bdda2dc1d2226a94c22df36992c0137585c4dbf30f3f5"
+    },
+    "weapon_mp9_paint_1375.glb": {
+      "bytes": 4649712,
+      "sha256": "52a8e8a0f1aa831b0236872cc5e168b391721f058b6a9a17420c67a246f44843"
+    },
+    "weapon_mp9_paint_1388.glb": {
+      "bytes": 4903736,
+      "sha256": "f542d20642c6a7972481bc38124d561ff1c927c5925df3618d1dabf54cca0032"
+    },
+    "weapon_mp9_paint_1423.glb": {
+      "bytes": 6611100,
+      "sha256": "48ec6a0798490ab9b6cef801ffa6b52faeb68832af03cdc2d9d28874453cc83f"
+    },
+    "weapon_mp9_paint_1469.glb": {
+      "bytes": 6493700,
+      "sha256": "4a9b7f5a02b4df677330105fe75160b8b180d8489b8ed9da10b73cb935934c6a"
+    },
+    "weapon_mp9_paint_1473.glb": {
+      "bytes": 6565632,
+      "sha256": "79bca49db323849af1b311d3bcd2769952f5c6b47774a7c8d9d06a274910025d"
+    },
+    "weapon_negev_paint_1260.glb": {
+      "bytes": 7444624,
+      "sha256": "614494e601aec17921b6ac429f11e612a7a0b24a38802dde8b9543dc3f2d74d1"
+    },
+    "weapon_negev_paint_1300.glb": {
+      "bytes": 7449512,
+      "sha256": "12c735fcfb4ba23ea1aff227d7e557e0842b888b1eb765511c76f015562904e4"
+    },
+    "weapon_nova_paint_1261.glb": {
+      "bytes": 4616624,
+      "sha256": "bbbabd0cd76526732d5e323b207da4d8cb0e367d4033a9dd3c31cdb963d3b421"
+    },
+    "weapon_nova_paint_1331.glb": {
+      "bytes": 4983720,
+      "sha256": "34181d77db244b946b4d5eea323382c22d8e3eaf57b2e275ab7d79f200b8865d"
+    },
+    "weapon_nova_paint_1337.glb": {
+      "bytes": 4529328,
+      "sha256": "d320dcf64b1ea1b29e0c700ae13869c00597f5a3136f981beb1746bce6963eac"
+    },
+    "weapon_nova_paint_1350.glb": {
+      "bytes": 5586960,
+      "sha256": "4eb18ce5a22fd3e99957bf05f6c3dc191d30db5c9e28142f9a5348a1ede0a493"
+    },
+    "weapon_nova_paint_1368.glb": {
+      "bytes": 4411904,
+      "sha256": "d8ce6144d94dc5c09f98feb57675f8574049420ae5c8e4bbbeeb4d04d1e6f746"
+    },
+    "weapon_nova_paint_1442.glb": {
+      "bytes": 5862840,
+      "sha256": "8218230a7fbf33ef953718ea1f4bbfcb288eb7f696d8822c06fad2b69d5c24f9"
+    },
+    "weapon_nova_paint_1474.glb": {
+      "bytes": 5975348,
+      "sha256": "99256e421e00a712d1039b1f05fad5c94338ea524c1d5b3cc964826044a0abf6"
+    },
+    "weapon_p250_paint_1212.glb": {
+      "bytes": 3565940,
+      "sha256": "c6d7e3d4b8ae07b72973c1c4628ee44ca69300bd492af9cf1c3c9b81ae3b64b7"
+    },
+    "weapon_p250_paint_1273.glb": {
+      "bytes": 4191276,
+      "sha256": "a468f2e91f132a3737204a391ff64dead338d8dad1e06d930fde661f2f16008c"
+    },
+    "weapon_p250_paint_1307.glb": {
+      "bytes": 3738196,
+      "sha256": "bd8ce558d708c2dd057d38d946343373de6fd6c7aa45a87740e610ffa3dfb2b2"
+    },
+    "weapon_p250_paint_1315.glb": {
+      "bytes": 4309136,
+      "sha256": "e15513c401e2aeab110eeadcc2b98193d51dc8cabf43a9c8a438ed7bb5184e31"
+    },
+    "weapon_p250_paint_1317.glb": {
+      "bytes": 4470420,
+      "sha256": "3a6d809f90bc58c0ed093f1a7758282e1726519f3101e03a76a272d20ea92571"
+    },
+    "weapon_p250_paint_1345.glb": {
+      "bytes": 5045184,
+      "sha256": "f130ea0d19263af03046dfd13471a975f8d8882c96ba4aaf0ba15183739fabc1"
+    },
+    "weapon_p250_paint_1369.glb": {
+      "bytes": 4259708,
+      "sha256": "f3d14f7af937bdb6418d56de5e6f5ec584599c835163ba2f8d3d3673b6cc8a1b"
+    },
+    "weapon_p250_paint_1420.glb": {
+      "bytes": 5571928,
+      "sha256": "1ee35e9b57be373c20383b4fc2e24d5771c9568a0a043e3ec4db115d8158df35"
+    },
+    "weapon_p250_paint_1455.glb": {
+      "bytes": 5080800,
+      "sha256": "18d6c555fce5c41155b48ff86daa6d68f3686616f86717571705fd9fd4dd1518"
+    },
+    "weapon_p90_paint_1199.glb": {
+      "bytes": 6902232,
+      "sha256": "8a4193c20a07905885c00deddc238921565b58e14792968d35ec0da29bfbf649"
+    },
+    "weapon_p90_paint_1256.glb": {
+      "bytes": 5334244,
+      "sha256": "bb24c342edd8bac583b74b0a7bb5ad814e025d6a59a85677756988501f49a420"
+    },
+    "weapon_p90_paint_1277.glb": {
+      "bytes": 5060100,
+      "sha256": "c2a790b0d51049042767459c514398ac069fe2ee437045cb7bf74cc9784d21ec"
+    },
+    "weapon_p90_paint_1291.glb": {
+      "bytes": 5104552,
+      "sha256": "1c2f6bc2b3be2e57c4d1fa6c75a2479fee531f2a43583bea550bfdded411e3e7"
+    },
+    "weapon_p90_paint_1332.glb": {
+      "bytes": 5352656,
+      "sha256": "5368293be8be9403b35f21ecb38a8448e83a997e10ac942802541af9d6d8c662"
+    },
+    "weapon_p90_paint_1361.glb": {
+      "bytes": 5251536,
+      "sha256": "ed568cd6d4be06198da19c77a3e62560a4214e2315a257fddc07b8aa9614c0dd"
+    },
+    "weapon_p90_paint_1419.glb": {
+      "bytes": 6285036,
+      "sha256": "f03d3b9a4dd7091f123cfff6c6f8cd9e98e80f7180f0da2a6e920308a5fe32eb"
+    },
+    "weapon_revolver_paint_1276.glb": {
+      "bytes": 5131812,
+      "sha256": "af679965f32b9f092da33dd710e8f75afca5f026afb16b89ef0fc7a086ec4b79"
+    },
+    "weapon_revolver_paint_1293.glb": {
+      "bytes": 4307912,
+      "sha256": "0b7a1e86c8ecc92a6c8c918d4e23db4400708d1c2ed6f2605ad7711c627f0935"
+    },
+    "weapon_revolver_paint_1363.glb": {
+      "bytes": 5164684,
+      "sha256": "8b777898a3dcab9588278d5d1d1668971cc709999688116d2005cb66c3df7bbe"
+    },
+    "weapon_revolver_paint_1389.glb": {
+      "bytes": 5402156,
+      "sha256": "aa83a559732eaefe2fe4fbfc0174b23bc38b39ab5f73e16dde916904355be905"
+    },
+    "weapon_revolver_paint_1445.glb": {
+      "bytes": 5780868,
+      "sha256": "3f71494bddb6cb5fcf394d9b0e4e2174ae68b3332feea60160928531199b395d"
+    },
+    "weapon_sawedoff_paint_1272.glb": {
+      "bytes": 4610836,
+      "sha256": "d2c83f48fbfbe91ffdebff28c24ee9bc147640597ba025e20d4d7742af1283a6"
+    },
+    "weapon_sawedoff_paint_1391.glb": {
+      "bytes": 3854292,
+      "sha256": "b9f0da10d52d5b98a4cf848e02f326399696315cd28d873ad56f1d10bf5fed6e"
+    },
+    "weapon_sawedoff_paint_1427.glb": {
+      "bytes": 3343560,
+      "sha256": "0334673ddc15e912c296d54f2e21fd6381dca1162e0d735a254527951ad6f610"
+    },
+    "weapon_sawedoff_paint_1475.glb": {
+      "bytes": 4967480,
+      "sha256": "37e3d824b62aef1598a088193fef170344bc7bbd001dfb6dd48f1778e96d370f"
+    },
+    "weapon_scar20_paint_1327.glb": {
+      "bytes": 6982708,
+      "sha256": "ab12fe021bdfcc4dfdd88a8a02d00ba6ec069fe06b5b05675069abc091c0cf52"
+    },
+    "weapon_scar20_paint_1343.glb": {
+      "bytes": 8356080,
+      "sha256": "edb5a49905f38a42847678684356f495a68004345efec54d9a5520ad3def64ca"
+    },
+    "weapon_scar20_paint_1371.glb": {
+      "bytes": 7828108,
+      "sha256": "56a275a3be63c18fe5c4856d2f518cc32df0e61be0e06018583ef51fa57ade72"
+    },
+    "weapon_scar20_paint_1453.glb": {
+      "bytes": 7597016,
+      "sha256": "5e1635b5ef331bb19ec92c06a00b64ec9e4d27b1adc491f5b14a3a1a62b36784"
+    },
+    "weapon_scar20_paint_1470.glb": {
+      "bytes": 8409588,
+      "sha256": "a49add229d01b62f95e54055dcb52cf5bccb220d10f446294dc06994ebc3df49"
+    },
+    "weapon_sg556_paint_1270.glb": {
+      "bytes": 7169460,
+      "sha256": "d43feb729d5d928e1e0dd9bf9d44fdd5f40fddb2c749eb2019d620420c8157e1"
+    },
+    "weapon_sg556_paint_1320.glb": {
+      "bytes": 7701844,
+      "sha256": "c058ff229a70dc8779aed68fb984efde042e18466480f9fab576c86d84519fe0"
+    },
+    "weapon_sg556_paint_1394.glb": {
+      "bytes": 7600516,
+      "sha256": "bfa41471e01c771a04974ddd9674ae36d3d949bfef64582ab99046bb0e1ee136"
+    },
+    "weapon_ssg08_paint_1271.glb": {
+      "bytes": 6976384,
+      "sha256": "06494b3950ae1c81770b461cd69f136d278d969a923ab418464d7d520e88484c"
+    },
+    "weapon_ssg08_paint_1289.glb": {
+      "bytes": 7275076,
+      "sha256": "7113b8578b145e97122455f9940bff521d7ce6337fd4e69ed3bfa3db2b769dc5"
+    },
+    "weapon_ssg08_paint_1304.glb": {
+      "bytes": 6947632,
+      "sha256": "2a3b89d1ecc6db01a3067a9b7e107529ba2aa67762e37b162cb3c76fc6326ac7"
+    },
+    "weapon_ssg08_paint_1316.glb": {
+      "bytes": 6736700,
+      "sha256": "2bb1a8b8b36804cddc80c8e077e9bc410d86dac890b1d5962eea9bf2587cda86"
+    },
+    "weapon_ssg08_paint_1372.glb": {
+      "bytes": 7315392,
+      "sha256": "074bbdcde093fa140b472a3efef6077d47367b15e2cccf09be44bf4f738a0d30"
+    },
+    "weapon_ssg08_paint_1379.glb": {
+      "bytes": 6980764,
+      "sha256": "a3685e443c94e323aef84946641d8cd5ca6b39dd4a7ce83965aa550713547b8f"
+    },
+    "weapon_taser_paint_1205.glb": {
+      "bytes": 4206324,
+      "sha256": "301205bd1a072757bb532465cded98072cd8caa571d2ee6044414e0e4725296a"
+    },
+    "weapon_taser_paint_1268.glb": {
+      "bytes": 2905320,
+      "sha256": "19697f42fa727b7fb6e7695289b83b94f66878bbcf900717d811e6bbddfef743"
+    },
+    "weapon_taser_paint_1297.glb": {
+      "bytes": 2912060,
+      "sha256": "89d38a87a85f4fe4526b87249bbd160bf26a5d41a65dcf01efb5d1ecbc100804"
+    },
+    "weapon_taser_paint_1382.glb": {
+      "bytes": 3819400,
+      "sha256": "e2823d015320e306087b063b3e67530c44e679186f9b50a204473c0fe9c7fef5"
+    },
+    "weapon_tec9_paint_1214.glb": {
+      "bytes": 4341464,
+      "sha256": "0c9f10fa336dbeac34474cb0d961df59c3d3498e939cced4f73b01f22de71714"
+    },
+    "weapon_tec9_paint_1279.glb": {
+      "bytes": 4528788,
+      "sha256": "339f0acce3afc6f46066db35c021761bf0b561adf51fe5d72a01e46939c4c2ea"
+    },
+    "weapon_tec9_paint_1286.glb": {
+      "bytes": 4179400,
+      "sha256": "8409dd35934ff4bd580fb3735a6f64179536a55993e2dc62f60df908a9fa90f2"
+    },
+    "weapon_tec9_paint_1299.glb": {
+      "bytes": 4027472,
+      "sha256": "132d68d440690df274b0efe6161fdd9e416665dd7d2b67a408ee45feef6d0f4a"
+    },
+    "weapon_tec9_paint_1322.glb": {
+      "bytes": 4110644,
+      "sha256": "731996fdfe54639d6dcf536600216001935eec2b0b3082d546299675577f07dd"
+    },
+    "weapon_tec9_paint_1384.glb": {
+      "bytes": 4926376,
+      "sha256": "8f1ff9ba12359ece4c89b19abe96ab87b6520b7abfb6a5d88645ac356dba151a"
+    },
+    "weapon_tec9_paint_1447.glb": {
+      "bytes": 5409864,
+      "sha256": "7aea8c91fce8ad115f91eb01ce82152b66873077bd9064f94ef81ebcb96e4c8d"
+    },
+    "weapon_tec9_paint_1462.glb": {
+      "bytes": 6378132,
+      "sha256": "a145160f3960e25d38a7ae3d868ba368151ab25726f0fd1873cd0847d96a1027"
+    },
+    "weapon_ump45_paint_1203.glb": {
+      "bytes": 5931584,
+      "sha256": "061b3d768a5b8b06493f78a6f103495ce7e0e251f42e2e32b5312297a8dd39d5"
+    },
+    "weapon_ump45_paint_1303.glb": {
+      "bytes": 5015128,
+      "sha256": "b6dc3e25d42c3b3a912623d8a693ee54db91727dcb81fd176d8f208656565f35"
+    },
+    "weapon_ump45_paint_1351.glb": {
+      "bytes": 6332320,
+      "sha256": "68202f890104924ea84b968aca33f746b014a7cbe97f4c4568e20d2e868fca07"
+    },
+    "weapon_ump45_paint_1387.glb": {
+      "bytes": 4869900,
+      "sha256": "b38835d62f2a88001f8dd74c36802f365be6bd2de29d57148889bb47279fa86e"
+    },
+    "weapon_ump45_paint_1426.glb": {
+      "bytes": 6322836,
+      "sha256": "cccd9911f1cb7f3f5af926e7d54ce65c1c5ab86eeef8d4ee713847036c2d9a7b"
+    },
+    "weapon_usp_silencer_paint_1217.glb": {
+      "bytes": 4268480,
+      "sha256": "d873f9303952a9fcae6148d740e9292950cb9d54ff00f99a6d4ba844210f2ca7"
+    },
+    "weapon_usp_silencer_paint_1284.glb": {
+      "bytes": 4278136,
+      "sha256": "4488178bf5ffff790b391fb1cfc348cd4fdffb08e6292edf09daa09057325e11"
+    },
+    "weapon_usp_silencer_paint_1323.glb": {
+      "bytes": 3712740,
+      "sha256": "907140139cb83248ebeb6e4e632df64e4cd9fda2ae0138ad7a8d71fdc16d4082"
+    },
+    "weapon_usp_silencer_paint_1377.glb": {
+      "bytes": 4090068,
+      "sha256": "7491b6f239fcffd59bdedcf45036ff9a1885d7e4ebce60745aed705afd12ecc3"
+    },
+    "weapon_usp_silencer_paint_1431.glb": {
+      "bytes": 5413240,
+      "sha256": "7b90cc1603271e66c43362db235dd3d40cce85d856d940aefa46da6bedd8d452"
+    },
+    "weapon_usp_silencer_paint_1451.glb": {
+      "bytes": 5270968,
+      "sha256": "6b4a95e05b7c88c9f30762dfb763bcb566e622bbf7139942e730c235bc41a155"
+    },
+    "weapon_xm1014_paint_1201.glb": {
+      "bytes": 6270844,
+      "sha256": "177a51c2ae51566ca09a6ae447a78b7da081ea887d1cc7a22f27eba63b552529"
+    },
+    "weapon_xm1014_paint_1215.glb": {
+      "bytes": 4916476,
+      "sha256": "8ed9b894ec3bb54686572721832a0ed850b6e07ad0a0c25d3eb3b38ae80d3eca"
+    },
+    "weapon_xm1014_paint_1267.glb": {
+      "bytes": 5171820,
+      "sha256": "0330b99601bd0141f6faf6785f487e832834bae8d9155e03e108fc283eacf02c"
+    },
+    "weapon_xm1014_paint_1287.glb": {
+      "bytes": 5143840,
+      "sha256": "77867e17bffe81db5941057b5c869ba08682ade706516dcb8320af162b7f1630"
+    },
+    "weapon_xm1014_paint_1333.glb": {
+      "bytes": 5419560,
+      "sha256": "e67726938fae5da75b498a7204d230dd0a475369b085b10b1a21418bc0b96f67"
+    },
+    "weapon_xm1014_paint_1381.glb": {
+      "bytes": 5225672,
+      "sha256": "5ec5b26f8dd69820c618ca92374a87215b578aa0d4db5f3c5af4de2b1c6d49d3"
+    },
+    "weapon_xm1014_paint_1471.glb": {
+      "bytes": 5645752,
+      "sha256": "0dbda449735d41be506b1f42d281f994a4e7e4c019b9929649b98db4886d8d16"
+    }
+  },
+  "paintPreviews": {
+    "weapon_ak47:1397": {
+      "model": "weapon_ak47_paint_1397",
+      "seed": 1,
+      "wear": 0.03
+    },
+    "slick_gloves:1398": {
+      "model": "slick_gloves_paint_1398",
+      "seed": 1,
+      "wear": 0.06
+    },
+    "slick_gloves:1399": {
+      "model": "slick_gloves_paint_1399",
+      "seed": 1,
+      "wear": 0.06
+    },
+    "slick_gloves:1400": {
+      "model": "slick_gloves_paint_1400",
+      "seed": 1,
+      "wear": 0.06
+    },
+    "slick_gloves:1401": {
+      "model": "slick_gloves_paint_1401",
+      "seed": 1,
+      "wear": 0.06
+    },
+    "slick_gloves:1402": {
+      "model": "slick_gloves_paint_1402",
+      "seed": 1,
+      "wear": 0.06
+    },
+    "slick_gloves:1404": {
+      "model": "slick_gloves_paint_1404",
+      "seed": 1,
+      "wear": 0.06
+    },
+    "slick_gloves:1412": {
+      "model": "slick_gloves_paint_1412",
+      "seed": 1,
+      "wear": 0.06
+    },
+    "slick_gloves:1439": {
+      "model": "slick_gloves_paint_1439",
+      "seed": 1,
+      "wear": 0.06
+    },
+    "specialist_gloves:1413": {
+      "model": "specialist_gloves_paint_1413",
+      "seed": 1,
+      "wear": 0.06
+    },
+    "specialist_gloves:1414": {
+      "model": "specialist_gloves_paint_1414",
+      "seed": 1,
+      "wear": 0.06
+    },
+    "specialist_gloves:1415": {
+      "model": "specialist_gloves_paint_1415",
+      "seed": 1,
+      "wear": 0.06
+    },
+    "specialist_gloves:1416": {
+      "model": "specialist_gloves_paint_1416",
+      "seed": 1,
+      "wear": 0.06
+    },
+    "specialist_gloves:1437": {
+      "model": "specialist_gloves_paint_1437",
+      "seed": 1,
+      "wear": 0.06
+    },
+    "specialist_gloves:1438": {
+      "model": "specialist_gloves_paint_1438",
+      "seed": 1,
+      "wear": 0.06
+    },
+    "specialist_gloves:1440": {
+      "model": "specialist_gloves_paint_1440",
+      "seed": 1,
+      "wear": 0.06
+    },
+    "sporty_gloves:1405": {
+      "model": "sporty_gloves_paint_1405",
+      "seed": 1,
+      "wear": 0.06
+    },
+    "sporty_gloves:1406": {
+      "model": "sporty_gloves_paint_1406",
+      "seed": 1,
+      "wear": 0.06
+    },
+    "sporty_gloves:1407": {
+      "model": "sporty_gloves_paint_1407",
+      "seed": 1,
+      "wear": 0.06
+    },
+    "sporty_gloves:1408": {
+      "model": "sporty_gloves_paint_1408",
+      "seed": 1,
+      "wear": 0.06
+    },
+    "sporty_gloves:1409": {
+      "model": "sporty_gloves_paint_1409",
+      "seed": 1,
+      "wear": 0.06
+    },
+    "sporty_gloves:1410": {
+      "model": "sporty_gloves_paint_1410",
+      "seed": 1,
+      "wear": 0.06
+    },
+    "sporty_gloves:1417": {
+      "model": "sporty_gloves_paint_1417",
+      "seed": 1,
+      "wear": 0.06
+    },
+    "weapon_ak47:1218": {
+      "model": "weapon_ak47_paint_1218",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_ak47:1283": {
+      "model": "weapon_ak47_paint_1283",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_ak47:1288": {
+      "model": "weapon_ak47_paint_1288",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_ak47:1309": {
+      "model": "weapon_ak47_paint_1309",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_ak47:1352": {
+      "model": "weapon_ak47_paint_1352",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_ak47:1358": {
+      "model": "weapon_ak47_paint_1358",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_ak47:1425": {
+      "model": "weapon_ak47_paint_1425",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_ak47:1449": {
+      "model": "weapon_ak47_paint_1449",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_ak47:1466": {
+      "model": "weapon_ak47_paint_1466",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_aug:1198": {
+      "model": "weapon_aug_paint_1198",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_aug:1308": {
+      "model": "weapon_aug_paint_1308",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_aug:1339": {
+      "model": "weapon_aug_paint_1339",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_aug:1362": {
+      "model": "weapon_aug_paint_1362",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_aug:1452": {
+      "model": "weapon_aug_paint_1452",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_aug:1464": {
+      "model": "weapon_aug_paint_1464",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_awp:1213": {
+      "model": "weapon_awp_paint_1213",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_awp:1280": {
+      "model": "weapon_awp_paint_1280",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_awp:1324": {
+      "model": "weapon_awp_paint_1324",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_awp:1346": {
+      "model": "weapon_awp_paint_1346",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_awp:1356": {
+      "model": "weapon_awp_paint_1356",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_awp:1378": {
+      "model": "weapon_awp_paint_1378",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_awp:1422": {
+      "model": "weapon_awp_paint_1422",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_awp:1465": {
+      "model": "weapon_awp_paint_1465",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_awp:1467": {
+      "model": "weapon_awp_paint_1467",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_bizon:1325": {
+      "model": "weapon_bizon_paint_1325",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_bizon:1374": {
+      "model": "weapon_bizon_paint_1374",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_bizon:1392": {
+      "model": "weapon_bizon_paint_1392",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_bizon:1418": {
+      "model": "weapon_bizon_paint_1418",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_bizon:1472": {
+      "model": "weapon_bizon_paint_1472",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_cz75a:1195": {
+      "model": "weapon_cz75a_paint_1195",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_cz75a:1329": {
+      "model": "weapon_cz75a_paint_1329",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_cz75a:1390": {
+      "model": "weapon_cz75a_paint_1390",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_cz75a:1443": {
+      "model": "weapon_cz75a_paint_1443",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_deagle:1257": {
+      "model": "weapon_deagle_paint_1257",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_deagle:1318": {
+      "model": "weapon_deagle_paint_1318",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_deagle:1360": {
+      "model": "weapon_deagle_paint_1360",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_deagle:1430": {
+      "model": "weapon_deagle_paint_1430",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_deagle:1458": {
+      "model": "weapon_deagle_paint_1458",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_elite:1263": {
+      "model": "weapon_elite_paint_1263",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_elite:1290": {
+      "model": "weapon_elite_paint_1290",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_elite:1335": {
+      "model": "weapon_elite_paint_1335",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_elite:1347": {
+      "model": "weapon_elite_paint_1347",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_elite:1373": {
+      "model": "weapon_elite_paint_1373",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_elite:1459": {
+      "model": "weapon_elite_paint_1459",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_famas:1202": {
+      "model": "weapon_famas_paint_1202",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_famas:1219": {
+      "model": "weapon_famas_paint_1219",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_famas:1302": {
+      "model": "weapon_famas_paint_1302",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_famas:1321": {
+      "model": "weapon_famas_paint_1321",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_famas:1365": {
+      "model": "weapon_famas_paint_1365",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_famas:1393": {
+      "model": "weapon_famas_paint_1393",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_famas:1461": {
+      "model": "weapon_famas_paint_1461",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_famas:1477": {
+      "model": "weapon_famas_paint_1477",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_fiveseven:1262": {
+      "model": "weapon_fiveseven_paint_1262",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_fiveseven:1336": {
+      "model": "weapon_fiveseven_paint_1336",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_fiveseven:1380": {
+      "model": "weapon_fiveseven_paint_1380",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_fiveseven:1429": {
+      "model": "weapon_fiveseven_paint_1429",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_fiveseven:1457": {
+      "model": "weapon_fiveseven_paint_1457",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_g3sg1:1305": {
+      "model": "weapon_g3sg1_paint_1305",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_g3sg1:1328": {
+      "model": "weapon_g3sg1_paint_1328",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_galilar:1264": {
+      "model": "weapon_galilar_paint_1264",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_galilar:1275": {
+      "model": "weapon_galilar_paint_1275",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_galilar:1296": {
+      "model": "weapon_galilar_paint_1296",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_galilar:1314": {
+      "model": "weapon_galilar_paint_1314",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_galilar:1383": {
+      "model": "weapon_galilar_paint_1383",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_galilar:1434": {
+      "model": "weapon_galilar_paint_1434",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_galilar:294": {
+      "model": "weapon_galilar_paint_294",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_glock:1200": {
+      "model": "weapon_glock_paint_1200",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_glock:1265": {
+      "model": "weapon_glock_paint_1265",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_glock:1282": {
+      "model": "weapon_glock_paint_1282",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_glock:1312": {
+      "model": "weapon_glock_paint_1312",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_glock:1348": {
+      "model": "weapon_glock_paint_1348",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_glock:1357": {
+      "model": "weapon_glock_paint_1357",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_glock:1421": {
+      "model": "weapon_glock_paint_1421",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_glock:1450": {
+      "model": "weapon_glock_paint_1450",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_glock:1460": {
+      "model": "weapon_glock_paint_1460",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_hkp2000:1259": {
+      "model": "weapon_hkp2000_paint_1259",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_hkp2000:1292": {
+      "model": "weapon_hkp2000_paint_1292",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_hkp2000:1342": {
+      "model": "weapon_hkp2000_paint_1342",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_hkp2000:1359": {
+      "model": "weapon_hkp2000_paint_1359",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_knife_canis:415": {
+      "model": "weapon_knife_canis_paint_415",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_knife_canis:416": {
+      "model": "weapon_knife_canis_paint_416",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_knife_canis:417": {
+      "model": "weapon_knife_canis_paint_417",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_knife_canis:418": {
+      "model": "weapon_knife_canis_paint_418",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_knife_canis:419": {
+      "model": "weapon_knife_canis_paint_419",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_knife_canis:420": {
+      "model": "weapon_knife_canis_paint_420",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_knife_canis:421": {
+      "model": "weapon_knife_canis_paint_421",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_knife_cord:415": {
+      "model": "weapon_knife_cord_paint_415",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_knife_cord:416": {
+      "model": "weapon_knife_cord_paint_416",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_knife_cord:417": {
+      "model": "weapon_knife_cord_paint_417",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_knife_cord:418": {
+      "model": "weapon_knife_cord_paint_418",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_knife_cord:419": {
+      "model": "weapon_knife_cord_paint_419",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_knife_cord:420": {
+      "model": "weapon_knife_cord_paint_420",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_knife_cord:421": {
+      "model": "weapon_knife_cord_paint_421",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_knife_outdoor:415": {
+      "model": "weapon_knife_outdoor_paint_415",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_knife_outdoor:416": {
+      "model": "weapon_knife_outdoor_paint_416",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_knife_outdoor:417": {
+      "model": "weapon_knife_outdoor_paint_417",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_knife_outdoor:418": {
+      "model": "weapon_knife_outdoor_paint_418",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_knife_outdoor:419": {
+      "model": "weapon_knife_outdoor_paint_419",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_knife_outdoor:420": {
+      "model": "weapon_knife_outdoor_paint_420",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_knife_outdoor:421": {
+      "model": "weapon_knife_outdoor_paint_421",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_knife_skeleton:415": {
+      "model": "weapon_knife_skeleton_paint_415",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_knife_skeleton:416": {
+      "model": "weapon_knife_skeleton_paint_416",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_knife_skeleton:417": {
+      "model": "weapon_knife_skeleton_paint_417",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_knife_skeleton:418": {
+      "model": "weapon_knife_skeleton_paint_418",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_knife_skeleton:419": {
+      "model": "weapon_knife_skeleton_paint_419",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_knife_skeleton:420": {
+      "model": "weapon_knife_skeleton_paint_420",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_knife_skeleton:421": {
+      "model": "weapon_knife_skeleton_paint_421",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_m249:1298": {
+      "model": "weapon_m249_paint_1298",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_m249:1370": {
+      "model": "weapon_m249_paint_1370",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_m249:1435": {
+      "model": "weapon_m249_paint_1435",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_m4a1:1209": {
+      "model": "weapon_m4a1_paint_1209",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_m4a1:1266": {
+      "model": "weapon_m4a1_paint_1266",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_m4a1:1281": {
+      "model": "weapon_m4a1_paint_1281",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_m4a1:1313": {
+      "model": "weapon_m4a1_paint_1313",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_m4a1:1353": {
+      "model": "weapon_m4a1_paint_1353",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_m4a1:1364": {
+      "model": "weapon_m4a1_paint_1364",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_m4a1:1432": {
+      "model": "weapon_m4a1_paint_1432",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_m4a1:1446": {
+      "model": "weapon_m4a1_paint_1446",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_m4a1:1463": {
+      "model": "weapon_m4a1_paint_1463",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_m4a1_silencer:1216": {
+      "model": "weapon_m4a1_silencer_paint_1216",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_m4a1_silencer:1311": {
+      "model": "weapon_m4a1_silencer_paint_1311",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_m4a1_silencer:1319": {
+      "model": "weapon_m4a1_silencer_paint_1319",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_m4a1_silencer:1338": {
+      "model": "weapon_m4a1_silencer_paint_1338",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_m4a1_silencer:1340": {
+      "model": "weapon_m4a1_silencer_paint_1340",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_m4a1_silencer:1376": {
+      "model": "weapon_m4a1_silencer_paint_1376",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_m4a1_silencer:1433": {
+      "model": "weapon_m4a1_silencer_paint_1433",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_m4a1_silencer:1476": {
+      "model": "weapon_m4a1_silencer_paint_1476",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mac10:1204": {
+      "model": "weapon_mac10_paint_1204",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mac10:1269": {
+      "model": "weapon_mac10_paint_1269",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mac10:1285": {
+      "model": "weapon_mac10_paint_1285",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mac10:1295": {
+      "model": "weapon_mac10_paint_1295",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mac10:1334": {
+      "model": "weapon_mac10_paint_1334",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mac10:1349": {
+      "model": "weapon_mac10_paint_1349",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mac10:1367": {
+      "model": "weapon_mac10_paint_1367",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mac10:1448": {
+      "model": "weapon_mac10_paint_1448",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mac10:1454": {
+      "model": "weapon_mac10_paint_1454",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mag7:1306": {
+      "model": "weapon_mag7_paint_1306",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mag7:1355": {
+      "model": "weapon_mag7_paint_1355",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mp5sd:1274": {
+      "model": "weapon_mp5sd_paint_1274",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mp5sd:1294": {
+      "model": "weapon_mp5sd_paint_1294",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mp5sd:1344": {
+      "model": "weapon_mp5sd_paint_1344",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mp5sd:1366": {
+      "model": "weapon_mp5sd_paint_1366",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mp5sd:1385": {
+      "model": "weapon_mp5sd_paint_1385",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mp7:1326": {
+      "model": "weapon_mp7_paint_1326",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mp7:1354": {
+      "model": "weapon_mp7_paint_1354",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mp7:1386": {
+      "model": "weapon_mp7_paint_1386",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mp7:1436": {
+      "model": "weapon_mp7_paint_1436",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mp7:1468": {
+      "model": "weapon_mp7_paint_1468",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mp9:1211": {
+      "model": "weapon_mp9_paint_1211",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mp9:1258": {
+      "model": "weapon_mp9_paint_1258",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mp9:1278": {
+      "model": "weapon_mp9_paint_1278",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mp9:1301": {
+      "model": "weapon_mp9_paint_1301",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mp9:1310": {
+      "model": "weapon_mp9_paint_1310",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mp9:1330": {
+      "model": "weapon_mp9_paint_1330",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mp9:1341": {
+      "model": "weapon_mp9_paint_1341",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mp9:1375": {
+      "model": "weapon_mp9_paint_1375",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mp9:1388": {
+      "model": "weapon_mp9_paint_1388",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mp9:1423": {
+      "model": "weapon_mp9_paint_1423",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mp9:1469": {
+      "model": "weapon_mp9_paint_1469",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_mp9:1473": {
+      "model": "weapon_mp9_paint_1473",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_negev:1260": {
+      "model": "weapon_negev_paint_1260",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_negev:1300": {
+      "model": "weapon_negev_paint_1300",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_nova:1261": {
+      "model": "weapon_nova_paint_1261",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_nova:1331": {
+      "model": "weapon_nova_paint_1331",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_nova:1337": {
+      "model": "weapon_nova_paint_1337",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_nova:1350": {
+      "model": "weapon_nova_paint_1350",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_nova:1368": {
+      "model": "weapon_nova_paint_1368",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_nova:1442": {
+      "model": "weapon_nova_paint_1442",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_nova:1474": {
+      "model": "weapon_nova_paint_1474",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_p250:1212": {
+      "model": "weapon_p250_paint_1212",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_p250:1273": {
+      "model": "weapon_p250_paint_1273",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_p250:1307": {
+      "model": "weapon_p250_paint_1307",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_p250:1315": {
+      "model": "weapon_p250_paint_1315",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_p250:1317": {
+      "model": "weapon_p250_paint_1317",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_p250:1345": {
+      "model": "weapon_p250_paint_1345",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_p250:1369": {
+      "model": "weapon_p250_paint_1369",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_p250:1420": {
+      "model": "weapon_p250_paint_1420",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_p250:1455": {
+      "model": "weapon_p250_paint_1455",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_p90:1199": {
+      "model": "weapon_p90_paint_1199",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_p90:1256": {
+      "model": "weapon_p90_paint_1256",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_p90:1277": {
+      "model": "weapon_p90_paint_1277",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_p90:1291": {
+      "model": "weapon_p90_paint_1291",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_p90:1332": {
+      "model": "weapon_p90_paint_1332",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_p90:1361": {
+      "model": "weapon_p90_paint_1361",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_p90:1419": {
+      "model": "weapon_p90_paint_1419",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_revolver:1276": {
+      "model": "weapon_revolver_paint_1276",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_revolver:1293": {
+      "model": "weapon_revolver_paint_1293",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_revolver:1363": {
+      "model": "weapon_revolver_paint_1363",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_revolver:1389": {
+      "model": "weapon_revolver_paint_1389",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_revolver:1445": {
+      "model": "weapon_revolver_paint_1445",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_sawedoff:1272": {
+      "model": "weapon_sawedoff_paint_1272",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_sawedoff:1391": {
+      "model": "weapon_sawedoff_paint_1391",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_sawedoff:1427": {
+      "model": "weapon_sawedoff_paint_1427",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_sawedoff:1475": {
+      "model": "weapon_sawedoff_paint_1475",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_scar20:1327": {
+      "model": "weapon_scar20_paint_1327",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_scar20:1343": {
+      "model": "weapon_scar20_paint_1343",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_scar20:1371": {
+      "model": "weapon_scar20_paint_1371",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_scar20:1453": {
+      "model": "weapon_scar20_paint_1453",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_scar20:1470": {
+      "model": "weapon_scar20_paint_1470",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_sg556:1270": {
+      "model": "weapon_sg556_paint_1270",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_sg556:1320": {
+      "model": "weapon_sg556_paint_1320",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_sg556:1394": {
+      "model": "weapon_sg556_paint_1394",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_ssg08:1271": {
+      "model": "weapon_ssg08_paint_1271",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_ssg08:1289": {
+      "model": "weapon_ssg08_paint_1289",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_ssg08:1304": {
+      "model": "weapon_ssg08_paint_1304",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_ssg08:1316": {
+      "model": "weapon_ssg08_paint_1316",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_ssg08:1372": {
+      "model": "weapon_ssg08_paint_1372",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_ssg08:1379": {
+      "model": "weapon_ssg08_paint_1379",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_taser:1205": {
+      "model": "weapon_taser_paint_1205",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_taser:1268": {
+      "model": "weapon_taser_paint_1268",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_taser:1297": {
+      "model": "weapon_taser_paint_1297",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_taser:1382": {
+      "model": "weapon_taser_paint_1382",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_tec9:1214": {
+      "model": "weapon_tec9_paint_1214",
+      "seed": 1,
+      "wear": 0.06
+    },
+    "weapon_tec9:1279": {
+      "model": "weapon_tec9_paint_1279",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_tec9:1286": {
+      "model": "weapon_tec9_paint_1286",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_tec9:1299": {
+      "model": "weapon_tec9_paint_1299",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_tec9:1322": {
+      "model": "weapon_tec9_paint_1322",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_tec9:1384": {
+      "model": "weapon_tec9_paint_1384",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_tec9:1447": {
+      "model": "weapon_tec9_paint_1447",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_tec9:1462": {
+      "model": "weapon_tec9_paint_1462",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_ump45:1203": {
+      "model": "weapon_ump45_paint_1203",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_ump45:1303": {
+      "model": "weapon_ump45_paint_1303",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_ump45:1351": {
+      "model": "weapon_ump45_paint_1351",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_ump45:1387": {
+      "model": "weapon_ump45_paint_1387",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_ump45:1426": {
+      "model": "weapon_ump45_paint_1426",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_usp_silencer:1217": {
+      "model": "weapon_usp_silencer_paint_1217",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_usp_silencer:1284": {
+      "model": "weapon_usp_silencer_paint_1284",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_usp_silencer:1323": {
+      "model": "weapon_usp_silencer_paint_1323",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_usp_silencer:1377": {
+      "model": "weapon_usp_silencer_paint_1377",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_usp_silencer:1431": {
+      "model": "weapon_usp_silencer_paint_1431",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_usp_silencer:1451": {
+      "model": "weapon_usp_silencer_paint_1451",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_xm1014:1201": {
+      "model": "weapon_xm1014_paint_1201",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_xm1014:1215": {
+      "model": "weapon_xm1014_paint_1215",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_xm1014:1267": {
+      "model": "weapon_xm1014_paint_1267",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_xm1014:1287": {
+      "model": "weapon_xm1014_paint_1287",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_xm1014:1333": {
+      "model": "weapon_xm1014_paint_1333",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_xm1014:1381": {
+      "model": "weapon_xm1014_paint_1381",
+      "seed": 1,
+      "wear": 0
+    },
+    "weapon_xm1014:1471": {
+      "model": "weapon_xm1014_paint_1471",
+      "seed": 1,
+      "wear": 0
+    }
+  }
+}
