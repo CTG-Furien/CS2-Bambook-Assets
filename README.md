@@ -20,12 +20,25 @@ credentials, player information or server configuration belongs here.
   build **2000905**. This is a separate experimental material bundle, not a
   complete paint library or a guarantee of exact in-game rendering.
 
-The 55 Source 2 exports cover the website's weapon/knife catalog. Gloves remain
-2D in the website. Base model availability does not mean every paint, sticker,
+The 55 Source 2 exports cover the website's weapon/knife catalog. Viewer bundle
+v5 additionally exposes all eight compatible glove families by catalog name.
+Base model availability does not mean every paint, sticker,
 keychain, wear or seed can already be rendered. Applying inventory on the game
 server is outside this asset repository's scope.
 
 ## Website consumption
+
+Viewer bundle `models-v5-6c88111c16de` contains 64 self-contained GLBs: 55
+weapon/knife bases (including Zeus x27), eight glove bases, and the Aphrodite
+preview. The eight numeric glove files from v2 are renamed to their catalog
+weapon keys without changing any bytes. Misleading upstream `gloves_ct` and
+`gloves_t` files are excluded: they contain default knives, not glove meshes.
+See `manifests/model-provenance-v5.json` for the exact source/hash mapping.
+
+Reproduce with `node scripts/prepare-glove-models.cjs --lock
+manifests/website-model-lock-v2.json --source <verified-v2-models-directory>
+--out <new-directory>`. Existing tags and binary assets remain unchanged.
+This release supplies base geometry; it does not add missing paint textures.
 
 Viewer bundle v2 adds an embedded **AK-47 Aphrodite (1397)** preview to the 65
 unchanged compatible models. Its 7 MB GLB contains the HD model and all four PBR
